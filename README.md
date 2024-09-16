@@ -1,5 +1,5 @@
 # North Korea provocations database
-Fetching and analyzing hundreds of ballistic missile launches, nuclear tests and other provocative actions by North Korea since 1958.
+Fetching and storing hundreds of ballistic missile launches, nuclear tests and other provocative actions by North Korea since 1958.
 
 ## Overview
 
