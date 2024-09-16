@@ -1,0 +1,56 @@
+name: fetch_database
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '00 1 * * *' # Once per day at 10am Pacific Time. 
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout repo content
+        uses: actions/checkout@v3 # checkout repo
+
+      - name: setup python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9' 
+          
+      - name: install python packages
+        run: |
+          set -e
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: execute py script
+        run: |
+          set -e
+          python fetch_database.py
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          SCRAPE_PROXY_KEY: ${{ secrets.SCRAPE_PROXY_KEY }}
+      
+      - name: Upload to S3
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          AWS_REGION: us-east-1
+        run: |
+          aws s3 cp data/ s3://stilesdata.com/north-korea-provocations/ --recursive
+          
+      - name: commit files
+        run: |
+          set -e
+          git config --local user.email "mattstiles@gmail.com"
+          git config --local user.name "Matt Stiles"
+          git add -A
+          git commit -m "bot fetched/updated data" -a --allow-empty --author="stiles <stiles@users.noreply.github.com>"
+
+      - name: push changes
+        run: |
+          set -e  # Stop execution if a command fails
+          git push origin main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
