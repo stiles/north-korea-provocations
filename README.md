@@ -17,13 +17,13 @@ The data is sourced from the "[Database of North Korean Provocations](https://be
 
 The collection process is automated using a Python script (`fetch_database.py`). The script uses the `requests` library to fetch the HTML content of the source webpage and `BeautifulSoup` to parse the table data into a structured format. This data is then saved in both raw and processed forms in JSON and CSV formats.
 
-A GitHub Actions workflow runs the script daily to keep the dataset current. The raw and processed data files are stored in the `data` directory, organized into `raw` and `processed` subdirectories.
+A GitHub Actions [workflow](https://github.com/stiles/north-korea-provocations/blob/main/.github/workflows/fetch_database.yml) runs the script daily to keep the dataset current. The raw and processed data files are stored in the `data` directory, organized into `raw` and `processed` subdirectories.
 
 ## Data structure
 
 ### Raw data
 
-The raw data extracted from the CSIS website is stored in JSON and CSV formats in the `data/raw` directory. Each entry in the dataset contains the following fields:
+The raw data extracted from the CSIS website is stored in JSON and CSV formats in the `data/raw` directory and on S3. Each entry in the dataset contains the following fields:
 
 - `date`: The date of the provocation (e.g., "2024-09-06").
 - `type`: The type of provocation (e.g., "Missile Provocation", "Other Provocation").
@@ -31,9 +31,11 @@ The raw data extracted from the CSIS website is stored in JSON and CSV formats i
 - `description`: A detailed description of the provocation.
 - `resources`: Links to external resources for further information.
 
+**S3**: [JSON](https://stilesdata.com/north-korea-provocations/raw/north_korea_provocations_1958_present.json) | [CSV](https://stilesdata.com/north-korea-provocations/raw/north_korea_provocations_1958_present.csv)
+
 ### Processed data
 
-The processed data adds additional fields for analysis purposes. The processed dataset is saved in the `data/processed` directory and includes the following fields:
+The processed data adds additional fields for analysis purposes. The processed dataset is saved in the `data/processed` directory and on S3 and includes the following fields:
 
 - `date`: The date of the provocation.
 - `type`: The type of provocation.
@@ -45,6 +47,8 @@ The processed data adds additional fields for analysis purposes. The processed d
 - `month_year`: The month and year of the event (formatted as MM-YYYY).
 - `weekday`: The day of the week on which the event occurred.
 - `mentions_kim`: A boolean field indicating if "Kim Jong Un" or "Kim Jong-un" is mentioned in the description.
+
+**S3**: [JSON](https://stilesdata.com/north-korea-provocations/processed/north_korea_provocations_1958_present.json) | [CSV](https://stilesdata.com/north-korea-provocations/processed/north_korea_provocations_1958_present.csv)
 
 ### Example JSON structure
 
