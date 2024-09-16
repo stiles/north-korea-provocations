@@ -1,0 +1,40 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+lxml = "*"
+html5lib = "*"
+xlrd = "*"
+pandas = "*"
+jupyter = "*"
+openpyxl = "*"
+jupyterlab = "*"
+altair = "*"
+cython = "*"
+geopandas = "*"
+bs4 = "*"
+rtree = "*"
+pygeos = "*"
+ipywidgets = "*"
+ipympl = "*"
+matplotlib = "*"
+plotly = "*"
+cartopy = "*"
+jupyter-black = "*"
+boto3 = "*"
+pyarrow = "*"
+fastparquet = "*"
+tqdm = "*"
+altair-saver = "*"
+vl-convert-python = "*"
+pyogrio = "*"
+fiona = "*"
+gspread = "*"
+numpy = "*"
+
+[requires]
+python_version = "3.9"
