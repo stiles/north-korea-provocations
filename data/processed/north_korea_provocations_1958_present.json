@@ -1,5 +1,29 @@
 [
     {
+        "date":"2024-09-15",
+        "type":"Other Provocation",
+        "event":"Balloon-floating Trash",
+        "description":"North Korea on Sunday launched trash-carrying balloons for the second straight day, the Joint Chiefs of Staff said. The military detected about 120, of which 40 reportedly fell in the South. South Korea's Chuseok holiday runs from Monday to Wednesday, and around 37 million people are expected to hit the road to visit family and travel during the period, raising concerns about potential risks that North Korean balloons could pose to driers if they continue.",
+        "resources":"https:\/\/www.nknews.org\/2024\/09\/north-korea-sends-more-trash-balloon-gifts-ahead-of-fall-harvest-holiday\/",
+        "year":"2024",
+        "week_number":"37",
+        "month_year":"09-2024",
+        "weekday":"Sunday",
+        "mentions_kim":false
+    },
+    {
+        "date":"2024-09-14",
+        "type":"Other Provocation",
+        "event":"Balloon-floating Trash",
+        "description":"North Korea sent trash-filled balloons toward South Korea on Saturday, the Joint Chiefs of Staff reported at 10:26 p.m. The JCS has identified about 50 balloons and only 10 of them have landed in South Korea. The JCS said the trash mostly consisted of paper, plastic bottles and other household garbage, while no hazardous substances have been found.",
+        "resources":"https:\/\/en.yna.co.kr\/view\/AEN20240914002300315?section=nk\/nk",
+        "year":"2024",
+        "week_number":"36",
+        "month_year":"09-2024",
+        "weekday":"Saturday",
+        "mentions_kim":false
+    },
+    {
         "date":"2024-09-12",
         "type":"Missile Provocation",
         "event":"Short-range Missile Launch",
@@ -9,6 +33,18 @@
         "week_number":"36",
         "month_year":"09-2024",
         "weekday":"Thursday",
+        "mentions_kim":false
+    },
+    {
+        "date":"2024-09-11",
+        "type":"Other Provocation",
+        "event":"Balloon-floating Trash",
+        "description":"North Korea sent around 20 balloons likely carrying trash toward South, but failed to cross the Military Demarcation Line according to the Joint Chiefs of Staff on Wednesday.",
+        "resources":"https:\/\/en.yna.co.kr\/view\/AEN20240914002300315?section=nk\/nk",
+        "year":"2024",
+        "week_number":"36",
+        "month_year":"09-2024",
+        "weekday":"Wednesday",
         "mentions_kim":false
     },
     {

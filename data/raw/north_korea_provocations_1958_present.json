@@ -1,10 +1,31 @@
 [
     {
+        "date":"2024-09-15",
+        "type":"Other Provocation",
+        "event":"Balloon-floating Trash",
+        "description":"North Korea on Sunday launched trash-carrying balloons for the second straight day, the Joint Chiefs of Staff said. The military detected about 120, of which 40 reportedly fell in the South. South Korea's Chuseok holiday runs from Monday to Wednesday, and around 37 million people are expected to hit the road to visit family and travel during the period, raising concerns about potential risks that North Korean balloons could pose to driers if they continue.",
+        "resources":"https:\/\/www.nknews.org\/2024\/09\/north-korea-sends-more-trash-balloon-gifts-ahead-of-fall-harvest-holiday\/"
+    },
+    {
+        "date":"2024-09-14",
+        "type":"Other Provocation",
+        "event":"Balloon-floating Trash",
+        "description":"North Korea sent trash-filled balloons toward South Korea on Saturday, the Joint Chiefs of Staff reported at 10:26 p.m. The JCS has identified about 50 balloons and only 10 of them have landed in South Korea. The JCS said the trash mostly consisted of paper, plastic bottles and other household garbage, while no hazardous substances have been found.",
+        "resources":"https:\/\/en.yna.co.kr\/view\/AEN20240914002300315?section=nk\/nk"
+    },
+    {
         "date":"2024-09-12",
         "type":"Missile Provocation",
         "event":"Short-range Missile Launch",
         "description":"North Korea fired multiple short-range ballistic missiles towards the East Sea on Thursday, Sep. 12, a week after Pyongyang warned that South Korea and the US will have to pay a price for their joint drills - the Ulchi Freedom Shield. JCS says the North Korea missiles flew about 360 kilometers and landed in the East Sea. It detected the missiles launched from the Pyongyang area at 7:10 am, but futher details such as the number of missiles fired is unknown. If fired southward, the distance is enough to effect major South Korea cities such as Seoul, Daejeon, as well as major military facilities in Gyeryong and Gunsan. The South Korean military vowed stern response and condemned the latest launch as a \"provocative act\".",
         "resources":"https:\/\/en.yna.co.kr\/view\/AEN20240912001452315?section=nk\/nk"
+    },
+    {
+        "date":"2024-09-11",
+        "type":"Other Provocation",
+        "event":"Balloon-floating Trash",
+        "description":"North Korea sent around 20 balloons likely carrying trash toward South, but failed to cross the Military Demarcation Line according to the Joint Chiefs of Staff on Wednesday.",
+        "resources":"https:\/\/en.yna.co.kr\/view\/AEN20240914002300315?section=nk\/nk"
     },
     {
         "date":"2024-09-08",
