@@ -1,5 +1,29 @@
 [
     {
+        "date":"2024-09-18",
+        "type":"Other Provocation",
+        "event":"Balloon-floating Trash",
+        "description":"North Korea launched trash-filled balloons toward South Korea on Wednesday, the Join Chiefs of Staff said. This marks the 21st insttance of North Korea sending such balloons.",
+        "resources":"https:\/\/news.koreaherald.com\/view.php?ud=20240918050180",
+        "year":"2024",
+        "week_number":"37",
+        "month_year":"09-2024",
+        "weekday":"Wednesday",
+        "mentions_kim":false
+    },
+    {
+        "date":"2024-09-18",
+        "type":"Missile Provocation",
+        "event":"Short-range Ballistic Missile Launch",
+        "description":"North Korea fired multipled short-range ballistic missiles in a northeastern direction on Wednesday, the Joint Chiefs of Staff (JCS) said. The military detected the launches at about 6:50 a.m. from the North Kaechon area in South Phyongan Province, north of Pyongynag and the missiles flew about 400 kilometers. It did not provide the number of missiles fired or where they landed.",
+        "resources":"https:\/\/en.yna.co.kr\/view\/AEN20240702003653315?section=nk\/nk",
+        "year":"2024",
+        "week_number":"37",
+        "month_year":"09-2024",
+        "weekday":"Wednesday",
+        "mentions_kim":false
+    },
+    {
         "date":"2024-09-15",
         "type":"Other Provocation",
         "event":"Balloon-floating Trash",
@@ -22,6 +46,18 @@
         "month_year":"09-2024",
         "weekday":"Saturday",
         "mentions_kim":false
+    },
+    {
+        "date":"2024-09-13",
+        "type":"Other Provocation",
+        "event":"Uranium Facility Visit",
+        "description":"North Korea for the first time showed images on Friday of the configures that produce fuel for its nuclear bombs, as leader Kim Jong Un visited a uranium enrichment facility and called for more weapons-grade material to boost the arsenal. The sate media report on Kim's visit to the Nuclear Weapons Institute and a production base for weapon-grade nuclear materials was accompanied by the first photos of the centrifuges, providing a rare look inside North Korea's nuclear programme, which is banned under multiple United Nations Security Council resolutions.",
+        "resources":"https:\/\/www.reuters.com\/world\/asia-pacific\/north-koreas-kim-jong-un-visits-uranium-enrichment-facility-state-media-says-2024-09-12\/",
+        "year":"2024",
+        "week_number":"36",
+        "month_year":"09-2024",
+        "weekday":"Friday",
+        "mentions_kim":true
     },
     {
         "date":"2024-09-12",
@@ -2881,7 +2917,7 @@
     },
     {
         "date":"2013-08-29",
-        "type":"Nuclear Provocation",
+        "type":"Other Provocation",
         "event":"Nuclear Fuel Reactor Operation",
         "description":"Operation of the second nuclear reactor in Yongbyon started.",
         "resources":"www.mnd.go.kr\/user\/mnd\/upload\/pblictn\/PBLICTNEBOOK_201506120237036840.pdf",
@@ -3013,7 +3049,7 @@
     },
     {
         "date":"2010-11-12",
-        "type":"Nuclear Provocation",
+        "type":"Other Provocation",
         "event":"Uranium Enrichment Program Disclosure",
         "description":"North Korea disclosed a uranium enrichment facility to Dr. Siegfried Hecker, a U.S. nuclear specialist at Stanford University",
         "resources":"http:\/\/www.mnd.go.kr\/user\/mnd\/upload\/pblictn\/PBLICTNEBOOK_201304110724185440.pdf",
