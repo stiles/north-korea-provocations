@@ -1,5 +1,17 @@
 [
     {
+        "date":"2024-10-02",
+        "type":"Other Provocation",
+        "event":"Balloon-floating Trash",
+        "description":"North Korea launched more than 150 trash-filled balloons toward South Korea on Wednesday, the Joint Chiefs of Staff said. 60 trash bundles have been found in Seoul and Gyeonggi Province due to the latest launch, which marked the 23rd of its kind since the North began the campaign in late May. Some of the balloons flew near Incheon International Airport.",
+        "resources":"https:\/\/en.yna.co.kr\/view\/AEN20241002000252315",
+        "year":"2024",
+        "week_number":"39",
+        "month_year":"10-2024",
+        "weekday":"Wednesday",
+        "mentions_kim":false
+    },
+    {
         "date":"2024-09-23",
         "type":"Other Provocation",
         "event":"Balloon-floating Trash",
