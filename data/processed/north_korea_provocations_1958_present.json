@@ -1,5 +1,17 @@
 [
     {
+        "date":"2024-10-03",
+        "type":"Other Provocation",
+        "event":"Balloon-floating Trash",
+        "description":"North Korea launched what appeared to be trash-carrying balloons toward South Korea early Friday morning, the South's military said, just two days after it sent more than 150 such balloons to the South. The Joint Chiefs of Staff raised the possibility of the balloons floating toward northern Gyeonggi Province and other parts of the Seoul metropolitan area, advising citizens not to touch them and to be careful with potential balloon drops. The latest launch marked the 24th of its kind since Pyongyang began the balloon campaign in late May.",
+        "resources":"https:\/\/en.yna.co.kr\/view\/AEN20241004000200315?input=tw",
+        "year":"2024",
+        "week_number":"39",
+        "month_year":"10-2024",
+        "weekday":"Thursday",
+        "mentions_kim":false
+    },
+    {
         "date":"2024-10-02",
         "type":"Other Provocation",
         "event":"Balloon-floating Trash",
