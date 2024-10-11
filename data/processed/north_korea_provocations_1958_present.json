@@ -1,5 +1,17 @@
 [
     {
+        "date":"2024-10-11",
+        "type":"Other Provocation",
+        "event":"Balloon-floating Trash",
+        "description":"North Korea launched balloons likely carrying trash toward South Korea early Friday, the Joint Chiefs of Staff said. This marks the 27th of its kind since Pyongyang since late May.",
+        "resources":"https:\/\/en.yna.co.kr\/view\/AEN20240927006700315?input=tw",
+        "year":"2024",
+        "week_number":"40",
+        "month_year":"10-2024",
+        "weekday":"Friday",
+        "mentions_kim":false
+    },
+    {
         "date":"2024-10-08",
         "type":"Other Provocation",
         "event":"Balloon-floating Trash",
