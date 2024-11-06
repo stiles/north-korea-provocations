@@ -1,5 +1,17 @@
 [
     {
+        "date":"2024-11-04",
+        "type":"Missile Provocation",
+        "event":"Short-range Ballistic Missile Launch",
+        "description":"North Korea fired at least 7 short-range ballistic missiles into the Sea of Japan (East Sea) on Tuesday morning, according to Japan's defense ministry. The launch occured a day before the US presidential election and just hours after high-level talks in Moscow between the DPRK foreign minister and Russian leader Vladimir Putin.",
+        "resources":"https:\/\/www.nknews.org\/2024\/11\/north-korea-conducts-apparent-missile-test-on-eve-of-us-election\/?t=1730820153",
+        "year":"2024",
+        "week_number":"44",
+        "month_year":"11-2024",
+        "weekday":"Monday",
+        "mentions_kim":false
+    },
+    {
         "date":"2024-10-31",
         "type":"Missile Provocation",
         "event":"Intercontinental Ballistic Missile",
