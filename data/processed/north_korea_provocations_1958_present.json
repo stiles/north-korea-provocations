@@ -1,5 +1,17 @@
 [
     {
+        "date":"2024-11-06",
+        "type":"Other Provocation",
+        "event":"Cyberattack",
+        "description":"South Korea's Defense Ministry says its website was hit by a distributed denail-of-service (DDoS) cyberattack this week. The ministry said in a statement that the attack began around 5:30 PM KST on Tuesday, but did not attribute the disruption campaign to any specific actor or state. Some experts described it as a possible North Korean \"demonstration-style\" campaign to make its presence felt on the international stage.",
+        "resources":"https:\/\/www.nknews.org\/2024\/11\/seouls-defense-ministry-hit-by-ddos-cyberattack-possibly-by-north-korea\/?utm_source=dlvr.it&utm_medium=twitter",
+        "year":"2024",
+        "week_number":"44",
+        "month_year":"11-2024",
+        "weekday":"Wednesday",
+        "mentions_kim":false
+    },
+    {
         "date":"2024-11-04",
         "type":"Missile Provocation",
         "event":"Short-range Ballistic Missile Launch",
