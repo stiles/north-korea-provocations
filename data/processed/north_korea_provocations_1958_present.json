@@ -1,5 +1,17 @@
 [
     {
+        "date":"2024-11-18",
+        "type":"Other Provocation",
+        "event":"Balloon-floating Trash",
+        "description":"North Korea sent trash-filled balloons toward South Korea, resuming its balloon campaign after about a three-week hiatus. The launch marks 31st occassion of its kind and comes a day after Kim Yo Jong's claim that South Korean leaflets had crossed the border into the North the previous day.",
+        "resources":"https:\/\/m-en.yna.co.kr\/view\/AEN20241118001000315?section=news",
+        "year":"2024",
+        "week_number":"46",
+        "month_year":"11-2024",
+        "weekday":"Monday",
+        "mentions_kim":false
+    },
+    {
         "date":"2024-11-04",
         "type":"Missile Provocation",
         "event":"Short-range Ballistic Missile Launch",
