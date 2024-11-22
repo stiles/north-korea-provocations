@@ -1176,6 +1176,13 @@
         "resources":"https:\/\/en.yna.co.kr\/view\/AEN20191129000352325?section=nk\/nk"
     },
     {
+        "date":"2019-11-27",
+        "type":"Other Provocation",
+        "event":"Cyberattack",
+        "description":"South Korea confirmed November 21, 2024 that North Korean hacking groups Lazarus and Andariel were involved in the theft of 342,000 Ethereum tokens from the cryptocurrency exchange Upbit. The tokens, valued at 58 billion KRW at the time, are now equivalent to 1.47 trillion KRW. North Korea sold 57% of the stolen Ethereum tokens at 2.5% below market price in exchange for bitcoin tokens on three cryptocurrency exchange websites presumably established by the North, the South Korea police noted.",
+        "resources":""
+    },
+    {
         "date":"2019-10-31",
         "type":"Missile Provocation",
         "event":"Short-range Missile Launch",
