@@ -1,5 +1,17 @@
 [
     {
+        "date":"2024-11-29",
+        "type":"Other Provocation",
+        "event":"Balloon-floating Trash",
+        "description":"North Korea sent around 40 trash-filled balloons across the inter-Korean border on Thursday night, according to the South Korea's Join Chiefs of Staff. It added that some 30 of the balloons landed in the capital area, including Gyeonggi Province. This marks the 32nd launch of its kind since Pyongyang began the balloon campaign since late May.",
+        "resources":"",
+        "year":"2024",
+        "week_number":"47",
+        "month_year":"11-2024",
+        "weekday":"Friday",
+        "mentions_kim":false
+    },
+    {
         "date":"2024-11-18",
         "type":"Other Provocation",
         "event":"Balloon-floating Trash",
