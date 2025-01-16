@@ -1,5 +1,17 @@
 [
     {
+        "date":"2025-01-14",
+        "type":"Missile Provocation",
+        "event":"Short-range Ballistic Missile Launch",
+        "description":"North Korea launched several short-range ballistic missiles (SRBMs) into the sea between Korea and Japan shortly before the U.S. inauguration day. The Joint Chiefs of Staff (JCS) detected the launch around 9:30 am, January 14, originating from the Ganggye area in North Korea's Jagang Province. The missiles traveled approximately 250 kilometers (155.3 miles) before landing in the sea. The exact number of missiles fired was not disclosed by the JCS.",
+        "resources":"https:\/\/en.yna.co.kr\/view\/AEN20241216008152315?section=nk\/nk",
+        "year":"2025",
+        "week_number":"2",
+        "month_year":"01-2025",
+        "weekday":"Tuesday",
+        "mentions_kim":false
+    },
+    {
         "date":"2025-01-06",
         "type":"Missile Provocation",
         "event":"Intermediate-range Ballistic Missile Launch",
