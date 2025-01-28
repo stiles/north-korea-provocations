@@ -1,5 +1,12 @@
 [
     {
+        "date":"2025-01-26",
+        "type":"Missile Provocation",
+        "event":"Strategic cruise missile",
+        "description":"North Korea test-fired sea-to-surface strategic cruise guided missiles and the state media announced that missiles hit the targets after traveling the 1,500 kilometer-long (932 miles) elliptical and eight-shaped flight orbits for 7,507 to 7,511 seconds. South Korea\u2019s Joint Chiefs of Staff said North Korea fired multiple cruise missiles from inland areas toward waters off the west coast of the Korean Peninsula at around 4 p.m. local time (2 a.m. ET) on January 25.",
+        "resources":"https:\/\/www.nbcnews.com\/news\/asia\/north-korea-fires-strategic-cruise-missiles-vows-tough-stance-us-rcna189313"
+    },
+    {
         "date":"2025-01-14",
         "type":"Missile Provocation",
         "event":"Short-range Ballistic Missile Launch",
