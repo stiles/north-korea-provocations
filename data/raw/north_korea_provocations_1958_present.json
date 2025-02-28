@@ -1,5 +1,12 @@
 [
     {
+        "date":"2025-02-28",
+        "type":"Missile Provocation",
+        "event":"Strategic cruise missile",
+        "description":"North Korea test fired two strategic cruise missiles on February 26, 2025, in order to show off the military\u2019s \u201creadiness\u201d to launch a nuclear attack, according to state media. The Rodong Sinmun reported that the Missile Administration launched two cruise missiles, each flying in \u201celliptical\u201d routes covering around 986 miles (1,587 km) over 132 minutes, striking a building on Sanchuira Island (\uc0c1\ucde8\ub77c\ub3c4) near Nampho off the west coast.",
+        "resources":"https:\/\/www.nknews.org\/2025\/02\/north-korea-conducts-cruise-missile-test-to-show-nuclear-attack-readiness\/"
+    },
+    {
         "date":"2025-01-26",
         "type":"Missile Provocation",
         "event":"Strategic cruise missile",
