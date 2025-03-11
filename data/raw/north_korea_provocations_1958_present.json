@@ -1,5 +1,12 @@
 [
     {
+        "date":"2025-03-10",
+        "type":"Missile Provocation",
+        "event":"Ballistic Missile Launch",
+        "description":"North Korea fired multiple ballistic missiles toward the Yellow Sea, according to South Korean military, as Seoul and Washington launched their annual military drills. The Joint Chiefs of Staff (JCS) said it detected the launch from an area near the western county of Hwangju in North Hwanghae Province at around 1:50 p.m., local time, noting that it may have involved close-range ballistic missiles (CRBMs). CRBMs refer to ballistic missiles that have a relatively short range of less than 300 kilometers. This marked the North's first known ballistic missile test since U.S. President Donald Trump's return to the White House.",
+        "resources":"https:\/\/en.yna.co.kr\/view\/AEN20250117011452315?section=nk\/nk"
+    },
+    {
         "date":"2025-02-26",
         "type":"Missile Provocation",
         "event":"Strategic cruise missile",
