@@ -1,5 +1,17 @@
 [
     {
+        "date":"2025-03-20",
+        "type":"Missile Provocation",
+        "event":"Anti-aircraft Missile Launch",
+        "description":"North Korea has successfully test-fired its latest anti-aircraft missile system, which was recently put into full-scale production, as leader Kim Jong-un oversaw the test, according to the Korean Central News Agency (KCNA) without disclosing specific details of the test. The test-firing was conducted by North Korean Missile Administration on March 20 to \"examine the comprehensive performance\" of the missile system being mass-produced at a munitions' industry enterprise.",
+        "resources":"https:\/\/en.yna.co.kr\/view\/AEN20250321000400315?section=nk\/nk",
+        "year":"2025",
+        "week_number":"11",
+        "month_year":"03-2025",
+        "weekday":"Thursday",
+        "mentions_kim":true
+    },
+    {
         "date":"2025-03-10",
         "type":"Missile Provocation",
         "event":"Ballistic Missile Launch",
@@ -2086,18 +2098,6 @@
         "month_year":"11-2019",
         "weekday":"Thursday",
         "mentions_kim":true
-    },
-    {
-        "date":"2019-11-27",
-        "type":"Other Provocation",
-        "event":"Cyberattack",
-        "description":"South Korea confirmed November 21, 2024 that North Korean hacking groups Lazarus and Andariel were involved in the theft of 342,000 Ethereum tokens from the cryptocurrency exchange Upbit. The tokens, valued at 58 billion KRW at the time, are now equivalent to 1.47 trillion KRW. North Korea sold 57% of the stolen Ethereum tokens at 2.5% below market price in exchange for bitcoin tokens on three cryptocurrency exchange websites presumably established by the North, the South Korea police noted.",
-        "resources":"",
-        "year":"2019",
-        "week_number":"47",
-        "month_year":"11-2019",
-        "weekday":"Wednesday",
-        "mentions_kim":false
     },
     {
         "date":"2019-10-31",

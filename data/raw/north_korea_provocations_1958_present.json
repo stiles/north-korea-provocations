@@ -1,5 +1,12 @@
 [
     {
+        "date":"2025-03-20",
+        "type":"Missile Provocation",
+        "event":"Anti-aircraft Missile Launch",
+        "description":"North Korea has successfully test-fired its latest anti-aircraft missile system, which was recently put into full-scale production, as leader Kim Jong-un oversaw the test, according to the Korean Central News Agency (KCNA) without disclosing specific details of the test. The test-firing was conducted by North Korean Missile Administration on March 20 to \"examine the comprehensive performance\" of the missile system being mass-produced at a munitions' industry enterprise.",
+        "resources":"https:\/\/en.yna.co.kr\/view\/AEN20250321000400315?section=nk\/nk"
+    },
+    {
         "date":"2025-03-10",
         "type":"Missile Provocation",
         "event":"Ballistic Missile Launch",
@@ -1216,13 +1223,6 @@
         "event":"Short-range Missile Launch",
         "description":"On Thursday (KCT), North Korea tested its super-large multiple rocket (SLMR) launcher under Kim Jong-un\u2019s guidance from Yeonpo, South Hamgyong Province, toward the sea between Korea and Japan. According to the Joint Chiefs of Staff (JCS), two projectiles were fired within a 30-second interval and flew around 380 kilometers in distance, reaching an apogee of around 97 km. Thursday's firing constituted the thirteenth testing conducted this year, and the fourth testing of its super-large rocket launcher system, which is presumed to be a 600-millimeter diameter one.",
         "resources":"https:\/\/en.yna.co.kr\/view\/AEN20191129000352325?section=nk\/nk"
-    },
-    {
-        "date":"2019-11-27",
-        "type":"Other Provocation",
-        "event":"Cyberattack",
-        "description":"South Korea confirmed November 21, 2024 that North Korean hacking groups Lazarus and Andariel were involved in the theft of 342,000 Ethereum tokens from the cryptocurrency exchange Upbit. The tokens, valued at 58 billion KRW at the time, are now equivalent to 1.47 trillion KRW. North Korea sold 57% of the stolen Ethereum tokens at 2.5% below market price in exchange for bitcoin tokens on three cryptocurrency exchange websites presumably established by the North, the South Korea police noted.",
-        "resources":""
     },
     {
         "date":"2019-10-31",
