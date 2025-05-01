@@ -1,5 +1,17 @@
 [
     {
+        "date":"2025-04-30",
+        "type":"Missile Provocation",
+        "event":"Strategic cruise missile",
+        "description":"North Korea fired supersonic cruise missiles, strategic cruise missiles, anti-aircraft missiles, and 127mm ship-mounted automatic guns on April 28, testing key weapons systems for its new 5000-ton destroyer. The next day, it conducted additional tests involving ship-to-ship tactical guided weapons, automatic guns, and smoke and electronic jamming systems.",
+        "resources":"https:\/\/koreajoongangdaily.joins.com\/news\/2025-04-30\/national\/northKorea\/North-conducts-1st-firing-test-of-new-warships-weapons-systems\/2296880",
+        "year":"2025",
+        "week_number":"17",
+        "month_year":"04-2025",
+        "weekday":"Wednesday",
+        "mentions_kim":false
+    },
+    {
         "date":"2025-03-20",
         "type":"Missile Provocation",
         "event":"Anti-aircraft Missile Launch",
