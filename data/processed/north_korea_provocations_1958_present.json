@@ -1,5 +1,17 @@
 [
     {
+        "date":"2025-05-08",
+        "type":"Missile Provocation",
+        "event":"Short-range Ballistic Missile Launch",
+        "description":"North Korea launched multiple short-range ballistic missiles into the waters between Korea and Japan, fying up to 800 kilometers. The launch likely included the KN-25 super-large 600mm multiple rocket launcher and the KN-23 missile system.",
+        "resources":"https:\/\/en.yna.co.kr\/view\/AEN20250311003753315?section=nk\/nk",
+        "year":"2025",
+        "week_number":"18",
+        "month_year":"05-2025",
+        "weekday":"Thursday",
+        "mentions_kim":false
+    },
+    {
         "date":"2025-04-30",
         "type":"Missile Provocation",
         "event":"Strategic cruise missile",
@@ -111,7 +123,7 @@
         "date":"2024-11-04",
         "type":"Missile Provocation",
         "event":"Short-range Ballistic Missile Launch",
-        "description":"North Korea fired at least 7 short-range ballistic missiles into the Sea of Japan (East Sea) on Tuesday morning, according to Japan's defense ministry. The launch occured a day before the US presidential election and just hours after high-level talks in Moscow between the DPRK foreign minister and Russian leader Vladimir Putin.",
+        "description":"North Korea fired at least 7 short-range ballistic missiles into the sea between Korea and Japan on Tuesday morning, according to Japan's defense ministry. The launch occured a day before the US presidential election and just hours after high-level talks in Moscow between the DPRK foreign minister and Russian leader Vladimir Putin.",
         "resources":"https:\/\/www.nknews.org\/2024\/11\/north-korea-conducts-apparent-missile-test-on-eve-of-us-election\/?t=1730820153",
         "year":"2024",
         "week_number":"44",
