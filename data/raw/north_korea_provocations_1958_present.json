@@ -1,5 +1,12 @@
 [
     {
+        "date":"2025-08-23",
+        "type":"Missile Provocation",
+        "event":"Anti-aircraft Missile Launch",
+        "description":"North Korea launched two new upgraded surface-to-air missiles at an undisclosed location.",
+        "resources":"https:\/\/www.nknews.org\/2025\/08\/kim-jong-un-oversees-launch-of-two-new-air-defense-missiles-state-media\/"
+    },
+    {
         "date":"2025-06-19",
         "type":"Missile Provocation",
         "event":"Artillery Fire",
