@@ -1,5 +1,17 @@
 [
     {
+        "date":"2025-09-09",
+        "type":"Other Provocation",
+        "event":"Rocket Engine Test",
+        "description":"North Korea conducted a new high-thrust solid-fuel missile engine test for ICBMs. The test was conducted by the Missile Administration and the Academy of Chemical Materials, and was oversaw by Kim Jong-un. According to KCNA, the engine test is reportedly the 9th of its kind and the last one in the development, with a maximum thrust of 1,971 kilonewtons.",
+        "resources":"https:\/\/en.yna.co.kr\/view\/AEN20250909001052315?section=nk\/nk",
+        "year":"2025",
+        "week_number":"36",
+        "month_year":"09-2025",
+        "weekday":"Tuesday",
+        "mentions_kim":true
+    },
+    {
         "date":"2025-08-23",
         "type":"Missile Provocation",
         "event":"Anti-aircraft Missile Launch",
@@ -565,7 +577,7 @@
     },
     {
         "date":"2024-06-26",
-        "type":"Missile Provocation",
+        "type":"Other Provocation",
         "event":"Rocket Engine Test",
         "description":"North Korea appears to have conducted a rocket engine test in recent days, according to NK Pro analysis of satellite imagery, after Russian leader Vladimir Putin signed a new agreement on space program cooperation with Kim Jong Un. The apparent test at the Sohae Satellite Launching Grounds vertical engine test stand follows the DPRK\u2019s failed attempt to put a second military reconnaissance satellite into orbit on May 27, indicating preparations are underway for another attempt soon. Planet Labs and Sentinel-2 satellite imagery suggests an engine test took place at the vertical stand between June 21 and 25, evident in the appearance of dying vegetation downhill from the stand caused by heat and chemicals dispersed by a likely extended motor burn.",
         "resources":"https:\/\/www.nknews.org\/pro\/north-korea-appears-to-test-rocket-engine-after-kim-putin-space-agreement\/",
