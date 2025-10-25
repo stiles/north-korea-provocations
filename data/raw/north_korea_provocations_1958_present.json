@@ -1,5 +1,12 @@
 [
     {
+        "date":"2025-10-23",
+        "type":"Other Provocation",
+        "event":"DMZ Enroachment",
+        "description":"The Joint Chiefs of Staff (JCS) reported that approximately 20 North Korean soldiers briefly crossed the Military Demarcation Line (MDL) on October 19. The 20 soldiers, some of them armed, are believed to have been working near the border clearing land or laying mines. The soldiers retreated without any particular response after South Korean troops issued several warning broadcasts and fired warning shots.",
+        "resources":"https:\/\/en.yna.co.kr\/view\/AEN20251023011800315?section=nk\/nk"
+    },
+    {
         "date":"2025-10-22",
         "type":"Missile Provocation",
         "event":"Short-range Ballistic Missile Launch",
