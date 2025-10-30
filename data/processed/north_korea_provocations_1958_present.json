@@ -1,5 +1,17 @@
 [
     {
+        "date":"2025-10-29",
+        "type":"Missile Provocation",
+        "event":"Strategic cruise missile",
+        "description":"North Korea test-fired sea-to-surface strategic cruise missiles that flew for more than two hours before striking their target in its western waters. The missiles were reportedly designed to carry nuclear warheads. The test occurred one day before U.S. President Trump\u2019s visit to South Korea, amid speculation about a possible meeting with Kim Jong-un.",
+        "resources":"https:\/\/www.nytimes.com\/2025\/10\/28\/world\/asia\/north-korea-kim-missile-trump.html?searchResultPosition=2",
+        "year":"2025",
+        "week_number":"43",
+        "month_year":"10-2025",
+        "weekday":"Wednesday",
+        "mentions_kim":true
+    },
+    {
         "date":"2025-10-23",
         "type":"Other Provocation",
         "event":"DMZ Enroachment",
