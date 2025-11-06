@@ -1,14 +1,26 @@
 [
     {
-        "date":"",
-        "type":"",
-        "event":"",
-        "description":"",
-        "resources":"",
-        "year":null,
-        "week_number":null,
-        "month_year":null,
-        "weekday":null,
+        "date":"2025-11-03",
+        "type":"Missile Provocation",
+        "event":"Artillery Fire",
+        "description":"North Korea fired 4 artillery rockets from South Pyongan province toward the northern part of the sea between Korea and Japan during U.S. Secretary of Defense Pete Hegseth\u2019s visit to the demilitarized zone. While South Korea\u2019s Joint Chiefs of Staff has not disclosed the type of artillery used by North Korea, experts speculate it to be 240mm multiple launch rocket systems (MLRS).",
+        "resources":"https:\/\/www.chosun.com\/english\/national-en\/2025\/11\/04\/2BLQPZ4UT5G2XBUALYMBSF2XYY\/",
+        "year":"2025",
+        "week_number":"44",
+        "month_year":"11-2025",
+        "weekday":"Monday",
+        "mentions_kim":false
+    },
+    {
+        "date":"2025-11-01",
+        "type":"Missile Provocation",
+        "event":"Artillery Fire",
+        "description":"North Korea fired over 10 artillery rockets into the Yellow Sea, coinciding with a summit between South Korean President Lee Jae-myung and Chinese President Xi Jinping. The rockets were fired approximately 10 minutes after the two leaders started their summit and traveled roughly 30 kilometers.",
+        "resources":"https:\/\/www.nknews.org\/2025\/11\/north-korea-launched-artillery-rockets-during-hegseths-dmz-visit-jcs-says\/",
+        "year":"2025",
+        "week_number":"43",
+        "month_year":"11-2025",
+        "weekday":"Saturday",
         "mentions_kim":false
     },
     {
