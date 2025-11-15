@@ -1,5 +1,17 @@
 [
     {
+        "date":"2025-11-06",
+        "type":"Missile Provocation",
+        "event":"Short-range Ballistic Missile Launch",
+        "description":"South Korea\u2019s Joint Chiefs of Staff (JCS) reported that North Korea fired a short-range ballistic missile toward its eastern waters. After being launched from an inland area near the western county of Taekwan, the missile flew approximately 700 kilometers (434 miles) before landing in the sea between Korea and Japan. The missile launch came after the United States announced additional sanctions against entities involved in money laundering to fund North Korea's nuclear program.",
+        "resources":"https:\/\/abcnews.go.com\/International\/wireStory\/south-korea-north-korea-fired-1-ballistic-missile-127282714",
+        "year":"2025",
+        "week_number":"44",
+        "month_year":"11-2025",
+        "weekday":"Thursday",
+        "mentions_kim":false
+    },
+    {
         "date":"2025-11-03",
         "type":"Missile Provocation",
         "event":"Artillery Fire",
@@ -15,7 +27,7 @@
         "date":"2025-11-01",
         "type":"Missile Provocation",
         "event":"Artillery Fire",
-        "description":"North Korea fired over 10 artillery rockets into the Yellow Sea, coinciding with a summit between South Korean President Lee Jae-myung and Chinese President Xi Jinping. The rockets were fired approximately 10 minutes after the two leaders started their summit and traveled roughly 30 kilometers.",
+        "description":"North Korea fired over 10 artillery rockets into the Yellow Sea, coinciding with a summit between South Korean President Lee Jae-myung and Chinese President Xi Jinping. The rockets were fired approximately 10 minutes after the two leaders started their summit and traveled roughly 30 kilometers (18.6 miles).",
         "resources":"https:\/\/www.nknews.org\/2025\/11\/north-korea-launched-artillery-rockets-during-hegseths-dmz-visit-jcs-says\/",
         "year":"2025",
         "week_number":"43",
