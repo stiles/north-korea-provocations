@@ -1,5 +1,17 @@
 [
     {
+        "date":"2025-11-19",
+        "type":"Other Provocation",
+        "event":"DMZ Enroachment",
+        "description":"South Korea's Joint Chiefs of Staff (JCS) reported that North Korean soldiers briefly crossed the inter-Korean border on November 19. While the number of soldiers involved and whether they were armed remains unclear, the North Korean troops retreated after the South Korean military issued warning messages and fired warning shots. North Korean soldiers have reportedly crossed the Military Demarcation Line around 10 times this year.",
+        "resources":"https:\/\/m.koreaherald.com\/article\/10620562",
+        "year":"2025",
+        "week_number":"46",
+        "month_year":"11-2025",
+        "weekday":"Wednesday",
+        "mentions_kim":false
+    },
+    {
         "date":"2025-11-06",
         "type":"Missile Provocation",
         "event":"Short-range Ballistic Missile Launch",
