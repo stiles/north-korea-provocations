@@ -1,10 +1,31 @@
 [
     {
-        "date":"",
+        "date":"2026-01-04",
         "type":"Missile Provocation",
-        "event":"",
-        "description":"",
-        "resources":""
+        "event":"Ballistic Missile Launch (type unknown)",
+        "description":"North Korea fired multiple ballistic missiles toward the sea between Korea and Japan on Sunday morning. According to South Korea's Joint Chiefs of Staff (JCS), several ballistic missile launches were detected around 7:50 a.m., with the missiles traveling approximately 900 kilometers (560 miles) eastward and reaching an altitude of roughly 50 kilometers (31 miles). A subsequent missile was detected around 8:00 a.m., flying approximately 950 kilometers (590 miles) to the east. The launches occurred during South Korean President Lee Jae Myung's visit to China.",
+        "resources":"https:\/\/apnews.com\/article\/south-north-korea-missile-76a8850484c5f969e56b797246877c61"
+    },
+    {
+        "date":"2025-12-28",
+        "type":"Missile Provocation",
+        "event":"Long-range Cruise Missile Launch",
+        "description":"North Korea's state media reported that Kim Jong-un personally oversaw the launch of long-range strategic cruise missiles from the Sunan area, which flew for 10,199 and 10,203 seconds along their designated flight paths before striking their target. While North Korean authorities have not disclosed the actual distance traveled, experts estimate the missile flew approximately 2,000 kilometers (1,243 miles) based on its flight time. The launch of North Korea's missiles comes only a few days after North Korea's unveiling of a nuclear-powered submarine.",
+        "resources":"https:\/\/www.koreatimes.co.kr\/foreignaffairs\/northkorea\/20251229\/n-koreas-kim-oversees-test-launch-of-long-range-strategic-cruise-missiles"
+    },
+    {
+        "date":"2025-12-25",
+        "type":"Other Provocation",
+        "event":"Nuclear-powered submarine",
+        "description":"North Korea\u2019s state media reported that Kim Jong-un inspected an \u201c8700-ton nuclear-powered strategic guided missile submarine,\u201d revealing a photo of the vessel. First discussed in the ruling party congress in 2021, this marked the first time North Korea released a full picture of the vessel. The 8700-ton displacement makes it comparable in size to most U.S. Virginia-class nuclear-powered attack submarines. The unveiling comes weeks after the release of the Joint Fact Sheet between South Korea and the U.S., which outlined the U.S. approval for South Korea\u2019s nuclear-powered attack submarines.",
+        "resources":"https:\/\/www.cnn.com\/2025\/12\/24\/asia\/north-korea-nuclear-powered-submarine-intl-hnk-ml"
+    },
+    {
+        "date":"2025-12-24",
+        "type":"Missile Provocation",
+        "event":"Anti-aircraft Missile Launch",
+        "description":"North Korea conducted a test-firing of new long-range anti-air missiles over the sea between Korea and Japan under Kim Jong-un's direct supervision. According to the Korean Central News Agency, \"the launched missiles accurately hit the mock targets at an altitude of 200km (124 miles).\" State media characterized the exercise as the inaugural test of North Korea's high-altitude, long-range anti-air missile system, which is widely interpreted as Pyongyang's response to the THAAD system currently deployed in South Korea.",
+        "resources":"https:\/\/en.news1.kr\/northkorea\/5894924\/"
     },
     {
         "date":"2025-12-09",
