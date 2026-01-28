@@ -1,5 +1,12 @@
 [
     {
+        "date":"2026-01-27",
+        "type":"Missile Provocation",
+        "event":"Short-range Ballistic Missile Launch",
+        "description":"South Korea\u2019s Joint Chiefs of Staff (JCS) reported that North Korea fired multiple short-range ballistic missiles (SRBMs) from Pyongyang at approximately 3:50 p.m. The launch consisted of five missiles fired in two rounds, each traveling roughly 350 kilometers (217 miles) toward the sea between Korea and Japan. Analysts believe the missiles were 600-millimeter (23.6-inch) super-large multiple rocket launchers, also known as the KN-25.",
+        "resources":"https:\/\/koreajoongangdaily.joins.com\/news\/2026-01-27\/national\/northKorea\/Norths-missile-launch-speculated-to-be-test-of-KN25-rocket-launcher\/2510046"
+    },
+    {
         "date":"2026-01-04",
         "type":"Missile Provocation",
         "event":"Ballistic Missile Launch (type unknown)",
@@ -136,7 +143,7 @@
         "date":"2025-03-10",
         "type":"Missile Provocation",
         "event":"Ballistic Missile Launch",
-        "description":"South Korea\u2019s Joint Chiefs of Staff (JCS) announced on afternoon of March 10 that North Korea launched \u201cmultiple\u201d close-range ballistic missiles (CRBMs) at around 1:50 p.m. KST from south of the capital in Hwangju County. An unspecified number of missiles reportedly flew 37 to 62 miles (60 to 100 kilometers) west toward the Yellow Sea.",
+        "description":"South Korea\u2019s Joint Chiefs of Staff (JCS) announced on afternoon of March 10 that North Korea launched \u201cmultiple\u201d close-range ballistic missiles (CRBMs) at around 1:50 p.m. from south of the capital in Hwangju County. An unspecified number of missiles reportedly flew 37 to 62 miles (60 to 100 kilometers) west toward the Yellow Sea.",
         "resources":"https:\/\/www.nknews.org\/pro\/north-korean-missiles-appear-to-strike-targets-on-west-coast-island-imagery\/"
     },
     {
