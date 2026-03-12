@@ -1,5 +1,12 @@
 [
     {
+        "date":"2026-03-11",
+        "type":"Missile Provocation",
+        "event":"Strategic cruise missile",
+        "description":"North Korea's state media KCNA reported that Kim Jong-un oversaw a strategic cruise missile test launch from Pyongyang's destroyer Choe Hyon, just days after a similar test. According to KCNA, the missiles flew over the Yellow Sea for between 10,116 and 10,138 seconds before striking their designated targets. Photos from the inspection also showed Kim Jong-un's daughter, Kim Ju-ae, accompanying her father during the exercise. The consecutive launches come amid the annual U.S.-South Korea joint military drills and the ongoing crisis in Iran.",
+        "resources":"https:\/\/www.koreatimes.co.kr\/amp\/foreignaffairs\/northkorea\/20260311\/n-koreas-kim-oversees-another-cruise-missile-test-from-destroyer-amid-seoul-washington-military-drills"
+    },
+    {
         "date":"2026-03-04",
         "type":"Missile Provocation",
         "event":"Strategic cruise missile",
@@ -45,7 +52,7 @@
         "date":"2025-12-24",
         "type":"Missile Provocation",
         "event":"Anti-aircraft Missile Launch",
-        "description":"North Korea conducted a test-firing of new long-range anti-air missiles over the sea between Korea and Japan under Kim Jong-un's direct supervision. According to the Korean Central News Agency, \"the launched missiles accurately hit the mock targets at an altitude of 200km (124 miles).\" State media characterized the exercise as the inaugural test of North Korea's high-altitude, long-range anti-air missile system, which is widely interpreted as Pyongyang's response to the THAAD system currently deployed in South Korea.",
+        "description":"North Korea conducted a test-firing of new long-range anti-air missiles over the sea between Korea and Japan under Kim Jong-un's direct supervision. According to the KCNA, \"the launched missiles accurately hit the mock targets at an altitude of 200km (124 miles).\" State media characterized the exercise as the inaugural test of North Korea's high-altitude, long-range anti-air missile system, which is widely interpreted as Pyongyang's response to the THAAD system currently deployed in South Korea.",
         "resources":"https:\/\/en.news1.kr\/northkorea\/5894924\/"
     },
     {
