@@ -33,6 +33,9 @@ src_df = pd.DataFrame(data, columns=['date', 'type', 'event', 'description', 're
 
 df = src_df.copy()
 
+# Normalize Unicode hyphens (U+2011, U+2013, U+2014) to ASCII hyphen
+df['date'] = df['date'].str.replace('[‑–—]', '-', regex=True)
+
 # Process date strings
 df['year'] = pd.to_datetime(df['date']).dt.strftime('%Y')
 df['week_number'] = pd.to_datetime(df['date']).dt.strftime('%-U')

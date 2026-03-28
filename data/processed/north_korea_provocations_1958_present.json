@@ -1,5 +1,17 @@
 [
     {
+        "date":"2026-03-14",
+        "type":"Missile Provocation",
+        "event":"Short-range Ballistic Missile Launch",
+        "description":"North Korea launched an estimated 10 short\u2011range ballistic missiles from the Sunan area near Pyongyang at around 1:20 p.m. KST, according to South Korea\u2019s Joint Chiefs of Staff. The missiles were identified as part of the\u00a0600mm\u00a0KN\u201125 \u201csuper\u2011large\u201d multiple rocket launcher system, which KCNA described as \u201cultra\u2011precision multiple rocket launchers.\u201d The missiles flew\u00a0roughly\u00a0350\u00a0km, with Japan\u2019s Ministry of Defense assessing a maximum altitude of about\u00a080 km\u00a0and a flight distance of about\u00a0340 km\u00a0before landing outside Japan\u2019s Exclusive Economic Zone in the East Sea\/Sea of Japan. KCNA also\u00a0stated\u00a0that the rockets struck an island target approximately\u00a0360 km\u00a0away. The drill involved two artillery companies and 12 rocket launchers and was overseen by Kim Jong\u2011un, who highlighted the system\u2019s destructive capabilities. The launch occurred amid the ongoing U.S.-ROK Freedom Shield exercises, consistent with North Korea\u2019s pattern of conducting missile activities during allied drills.",
+        "resources":"https:\/\/news.usni.org\/2026\/03\/16\/north-korea-fires-10-missiles-over-sea-of-japan-in-latest-multiple-rocket-launcher-system-test",
+        "year":"2026",
+        "week_number":"10",
+        "month_year":"03-2026",
+        "weekday":"Saturday",
+        "mentions_kim":false
+    },
+    {
         "date":"2026-03-11",
         "type":"Missile Provocation",
         "event":"Strategic cruise missile",
