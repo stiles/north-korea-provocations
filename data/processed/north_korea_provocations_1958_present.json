@@ -1,5 +1,17 @@
 [
     {
+        "date":"2026-03-29",
+        "type":"Missile Provocation",
+        "event":"Rocket Engine Test",
+        "description":"North Korean leader Kim Jong\u2011un supervised a ground test of a newly upgraded high\u2011thrust solid\u2011fuel missile engine built with composite carbon\u2011fiber material, a development the regime framed as part of its ongoing five\u2011year plan to enhance strategic strike capabilities. According to state media, the engine produced a maximum thrust of 2,500 kN, marking the North\u2019s first high\u2011thrust solid\u2011fuel engine test since last September, when the previous version reached 1,971 kN. Kim characterized the test as a significant step forward in strengthening the nation\u2019s strategic military forces, asserting that the upgrades would accelerate improvements through the introduction of more advanced and efficient components. The engine is believed to be intended for the Hwasong\u201120 intercontinental ballistic missile currently under development. KCNA also reported that Kim reviewed a separate test of new main battle tanks, which demonstrated full defensive effectiveness against anti\u2011tank threats, and inspected special operations training, which showcased expanded modern warfare capabilities.",
+        "resources":"https:\/\/en.yna.co.kr\/view\/AEN20260329000751315",
+        "year":"2026",
+        "week_number":"13",
+        "month_year":"03-2026",
+        "weekday":"Sunday",
+        "mentions_kim":false
+    },
+    {
         "date":"2026-03-14",
         "type":"Missile Provocation",
         "event":"Short-range Ballistic Missile Launch",
