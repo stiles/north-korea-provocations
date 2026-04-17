@@ -1,5 +1,41 @@
 [
     {
+        "date":"2026-04-12",
+        "type":"Missile Provocation",
+        "event":"Strategic cruise missile",
+        "description":"North Korean leader Kim Jong\u2011un oversaw a test\u2011firing of two strategic cruise missiles and three anti\u2011warship missiles from the 5,000\u2011ton destroyer Choe Hyon during an \u201coperational efficiency test,\u201d according to state media. The cruise missiles flew for 7,869-7,920 seconds and the anti\u2011warship missiles for 1,960-1,973 seconds along preset flight paths over the Yellow Sea, striking targets with what KCNA described as ultra\u2011precision accuracy. The test was conducted to verify the destroyer\u2019s integrated weapon command and launch control system, including an improved active anti\u2011jamming navigation capability. South Korea\u2019s military confirmed it detected the flight of multiple cruise missiles launched from waters near Nampho on the North\u2019s western coast, while allied forces maintained heightened monitoring. Kim emphasized the need to further strengthen strategic and tactical strike capabilities and to expand the nuclear war deterrent without limit, with South Korean officials assessing the launch as part of Pyongyang\u2019s five\u2011year defense development plan and possibly a final systems check before the warship\u2019s delivery.",
+        "resources":"https:\/\/en.yna.co.kr\/view\/AEN20260414000653315",
+        "year":"2026",
+        "week_number":"15",
+        "month_year":"04-2026",
+        "weekday":"Sunday",
+        "mentions_kim":false
+    },
+    {
+        "date":"2026-04-08",
+        "type":"Missile Provocation",
+        "event":"Short-range Ballistic Missile Launch",
+        "description":"North Korea conducted two separate missile launch activities into the Sea between Korea and Japan on April 8, marking the second consecutive day of missile-related activity, according to South Korea\u2019s Joint Chiefs of Staff. The first launch occurred at around 8:50 a.m. from the Wonsan area on the east coast, during which multiple short\u2011range ballistic missiles flew approximately 240 km. A second launch was detected at about 2:28 p.m., though specific technical details were not immediately released. The launches followed an apparent failed launch attempt from the Pyongyang area the previous day and came amid speculation over easing inter\u2011Korean tensions, which Pyongyang publicly dismissed as \u201cwishful interpretation.\u201d South Korea convened an emergency security review meeting and intensified surveillance in coordination with U.S. forces, stating the launches violated U.N. Security Council resolutions. The April 8 launches marked North Korea\u2019s fourth ballistic missile test of 2026 and its first in about three weeks following the March 14 multiple\u2011missile firing.",
+        "resources":"https:\/\/www.koreaherald.com\/article\/10712749",
+        "year":"2026",
+        "week_number":"14",
+        "month_year":"04-2026",
+        "weekday":"Wednesday",
+        "mentions_kim":false
+    },
+    {
+        "date":"2026-04-07",
+        "type":"Missile Provocation",
+        "event":"Ballistic Missile Launch",
+        "description":"South Korea\u2019s Joint Chiefs of Staff reported that North Korea launched a suspected ballistic missile from the Pyongyang area on April 7, though the projectile failed shortly after launch. According to South Korean military officials cited by Yonhap and Reuters, the missile flew eastward but exhibited an abnormal flight pattern in its early phase before disappearing, suggesting a technical malfunction. Authorities said they are analyzing the launch to determine the missile\u2019s exact type and cause of failure, while closely monitoring for follow\u2011up activity in coordination with U.S. intelligence. The attempted launch occurred one day before North Korea conducted confirmed short\u2011range ballistic missile launches from its east coast.",
+        "resources":"https:\/\/www.usnews.com\/news\/world\/articles\/2026-04-07\/north-korea-says-south-koreas-true-colours-as-enemy-state-unchanged-dashing-seouls-diplomatic-hopes",
+        "year":"2026",
+        "week_number":"14",
+        "month_year":"04-2026",
+        "weekday":"Tuesday",
+        "mentions_kim":false
+    },
+    {
         "date":"2026-03-29",
         "type":"Missile Provocation",
         "event":"Rocket Engine Test",
