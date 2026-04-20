@@ -1,5 +1,17 @@
 [
     {
+        "date":"2026-04-19",
+        "type":"Missile Provocation",
+        "event":"Short-range Ballistic Missile Launch",
+        "description":"North Korea fired multiple short\u2011range ballistic missiles toward the Sea between Korea and Japan on April 19, according to South Korea\u2019s Joint Chiefs of Staff, which detected the launches from the Sinpho area at around 6:10 a.m., with the missiles flying approximately 140 km. South Korean, U.S., and Japanese intelligence authorities tracked the launch activity while maintaining heightened surveillance, amid assessments that the firing could be linked to submarine\u2011related facilities in the area. The following day, North Korea\u2019s state media said the launch involved the Hwasong\u201111 Ra surface\u2011to\u2011surface tactical ballistic missile, with leader Kim Jong\u2011un attending the test to evaluate the missile\u2019s warhead performance. KCNA quoted Kim as expressing satisfaction with the test, describing it as significant for enhancing high\u2011density and high\u2011precision strike capabilities. South Korea condemned the launch as a violation of U.N. Security Council resolutions and urged an immediate halt to further missile provocations.",
+        "resources":"https:\/\/en.yna.co.kr\/view\/AEN20260419000253315",
+        "year":"2026",
+        "week_number":"16",
+        "month_year":"04-2026",
+        "weekday":"Sunday",
+        "mentions_kim":false
+    },
+    {
         "date":"2026-04-12",
         "type":"Missile Provocation",
         "event":"Strategic cruise missile",
