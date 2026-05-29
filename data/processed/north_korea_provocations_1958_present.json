@@ -1,5 +1,29 @@
 [
     {
+        "date":"2026-05-26",
+        "type":"Missile Provocation",
+        "event":"Mixed Tactical Weapons Test",
+        "description":"North Korea tested a mix of tactical ballistic missiles, artillery rockets, and AI-guided precision cruise missiles designed for modern warfare under leader Kim Jong-un's supervision, according to North Korea's state news agency KCNA. The tests analyzed the power of a special-mission tactical ballistic missile, the reliability of 240mm controlled artillery rockets with an ultra-precision autonomous navigation system, and the AI-guided hit accuracy of a tactical cruise missile. The tactical cruise missile combined an ultra-precision autonomous navigation system and a terrain-matching navigation system with AI terminal guidance capabilities, allowing it to conduct strikes on targets within a 100km range. The reported incorporation of AI in a missile system appears to be the first time North Korea has publicly referred to such technology in this context. The tests are assessed as the eighth of 2026 and form part of a stated five-year modernization drive.",
+        "resources":"https:\/\/www.reuters.com\/world\/asia-pacific\/north-korea-tests-mix-enhanced-ballistic-cruise-missiles-artillery-rockets-kcna-2026-05-26\/",
+        "year":"2026",
+        "week_number":"21",
+        "month_year":"05-2026",
+        "weekday":"Tuesday",
+        "mentions_kim":true
+    },
+    {
+        "date":"2026-05-26",
+        "type":"Missile Provocation",
+        "event":"Short-range Ballistic Missile Launch",
+        "description":"North Korea launched multiple short\u2011range ballistic missiles and other projectiles toward the Yellow Sea on May 26, according to South Korea\u2019s Joint Chiefs of Staff. The launches occurred at around 1:00 p.m. from the Chongju area on the North\u2019s west coast, with the missiles flying approximately 80 kilometers. South Korean and U.S. intelligence authorities tracked the launches from their initial stages and shared relevant information with Japan, while maintaining a heightened surveillance posture. The launch marked North Korea\u2019s first known missile activity since its series of ballistic missile tests in April and took place amid continuing tensions on the Korean Peninsula and calls from Pyongyang to strengthen its frontline defenses.",
+        "resources":"https:\/\/www.upi.com\/Top_News\/World-News\/2026\/05\/26\/North-Korea-ballistic-missile-launch-Yellow-Sea\/7381779787028\/",
+        "year":"2026",
+        "week_number":"21",
+        "month_year":"05-2026",
+        "weekday":"Tuesday",
+        "mentions_kim":false
+    },
+    {
         "date":"2026-04-19",
         "type":"Missile Provocation",
         "event":"Short-range Ballistic Missile Launch",
@@ -98,7 +122,7 @@
     {
         "date":"2026-01-28",
         "type":"Missile Provocation",
-        "event":"Multiple Lanuch Rocket System (MLRS) Test",
+        "event":"Multiple Launch Rocket System (MLRS) Test",
         "description":"North Korea's Kim Jong-un oversaw a test launch of an \"upgraded\" 600mm multiple-launch rocket system (MLRS). According to North Korea\u2019s state media, the test involved four rocket launches, which struck a target 358.5 kilometers (223 miles) from the launch site. The state media also reported that the system features an \"autonomous precision-guided flight system capable of disregarding any external interference.\" Kim Jong-un stated the 600mm MLRS has been \"adapted for special offensive use\" to enhance its \"strategic deterrence,\" likely referring to past claims that it can carry a nuclear warhead.",
         "resources":"https:\/\/www.nknews.org\/2026\/01\/kim-jong-un-says-he-hopes-enemies-feel-threatened-by-latest-rocket-test\/",
         "year":"2026",
