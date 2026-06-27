@@ -1,5 +1,17 @@
 [
     {
+        "date":"2026-06-25",
+        "type":"Missile Provocation",
+        "event":"Short-range Ballistic Missile Launch",
+        "description":"On June 25, 2026, Kim Jong-un oversaw a weapons test that KCNA reported the next day, claiming the tactical nuclear\u2013capable Hwasong-11D close-range ballistic missile can inflict \"fatal damage\" on South Korean airfields, ports, and power facilities. NK News analysis places the launch on a beach in Ragwon County, South Hamgyong Province, with two four-tube launchers firing southwestward toward Ung Island, roughly 72 km away. Notably, Seoul gave no public indication it detected the launch, which represents an unprecedented non-reaction. North Korea also tested an upgraded 240mm MLRS launcher (claimed 90 km range) and a 155mm self-propelled gun-howitzer (claimed 65 km range). The test fell on the Korean War's anniversary.",
+        "resources":"https:\/\/www.nknews.org\/2026\/06\/north-korea-tests-ability-to-strike-rok-power-stations-with-tactical-nukes-kcna\/?t=1782476541",
+        "year":"2026",
+        "week_number":"25",
+        "month_year":"06-2026",
+        "weekday":"Thursday",
+        "mentions_kim":true
+    },
+    {
         "date":"2026-05-26",
         "type":"Missile Provocation",
         "event":"Mixed Tactical Weapons Test",
