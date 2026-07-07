@@ -1,5 +1,17 @@
 [
     {
+        "date":"2026-07-03",
+        "type":"Missile Provocation",
+        "event":"Strategic cruise missile",
+        "description":"According to state media, North Korean leader Kim Jong-un oversaw tests of a cruise missile, reportedly a Hwasal-series weapon, plus naval artillery, automatic guns, and electronic warfare systems aboard the destroyer Kang Kon on July 3, 2026. KCNA reported the tests were meant to confirm the ability to \"apply various kinds of weapon systems on board the destroyer in combat,\" while South Korea's military stated it detected the cruise missile launch toward the sea between Korea and Japan.",
+        "resources":"https:\/\/en.yna.co.kr\/view\/AEN20260705000451315",
+        "year":"2026",
+        "week_number":"26",
+        "month_year":"07-2026",
+        "weekday":"Friday",
+        "mentions_kim":true
+    },
+    {
         "date":"2026-06-25",
         "type":"Missile Provocation",
         "event":"Short-range Ballistic Missile Launch",
