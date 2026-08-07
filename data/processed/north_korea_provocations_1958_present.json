@@ -1,5 +1,17 @@
 [
     {
+        "date":"2026-08-06",
+        "type":"Missile Provocation",
+        "event":"Short-range Ballistic Missile Launch",
+        "description":"North Korea launched a short-range ballistic missile from its eastern Wonsan area towards the sea around 5 p.m., per South Korea\u2019s military, prompting an emergency security meeting and condemnation from Seoul's presidential office as a UN Security Council violation. Japan also confirmed the launch as a ballistic missile. South Korea raised its alert level and is coordinating with the U.S. and Japan to analyze the specifics of the launch.",
+        "resources":"https:\/\/www.reuters.com\/world\/china\/north-korea-fires-unidentified-projectile-south-koreas-military-says-2026-08-06\/",
+        "year":"2026",
+        "week_number":"31",
+        "month_year":"08-2026",
+        "weekday":"Thursday",
+        "mentions_kim":false
+    },
+    {
         "date":"2026-07-03",
         "type":"Missile Provocation",
         "event":"Strategic cruise missile",
