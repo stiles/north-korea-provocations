@@ -1,5 +1,17 @@
 [
     {
+        "date":"2026-08-12",
+        "type":"Missile Provocation",
+        "event":"Short-range Ballistic Missile Launch",
+        "description":"North Korea fired a ballistic missile toward the sea between Korea and Japan on August 12, according to South Korea\u2019s Joint Chiefs of Staff, which detected the launch from the Wonsan area at around 6 a.m. South Korean and Japanese defense authorities assessed that the missile flew approximately 700 km, but the JCS did not identify the specific missile type and said further analysis was underway. The launch came six days after another ballistic missile firing from Wonsan and days before the August 17\u201327 Ulchi Freedom Shield joint military exercises between South Korea and the United States. South Korea\u2019s Office of National Security convened an emergency meeting and condemned the launch as a violation of U.N. Security Council resolutions, while Japan lodged a formal protest. The U.S. Pacific Command said the launch posed no immediate threat to U.S. personnel, territory, or allies. An analyst at the Korea Institute for National Unification said the range, trajectory, and launch site suggested the weapon could have been a hypersonic missile, though a submarine-launched missile was also possible.",
+        "resources":"https:\/\/www.reuters.com\/world\/asia-pacific\/north-korea-fires-unidentified-projectile-media-says-2026-08-11\/",
+        "year":"2026",
+        "week_number":"32",
+        "month_year":"08-2026",
+        "weekday":"Wednesday",
+        "mentions_kim":false
+    },
+    {
         "date":"2026-08-06",
         "type":"Missile Provocation",
         "event":"Short-range Ballistic Missile Launch",
