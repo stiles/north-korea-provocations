@@ -1,5 +1,17 @@
 [
     {
+        "date":"2026-08-20",
+        "type":"Missile Provocation",
+        "event":"Short-range Ballistic Missile Launch",
+        "description":"North Korea fired around 10 short-range ballistic missiles toward the sea between Korea and Japan on August 20, according to South Korea\u2019s Joint Chiefs of Staff, which detected the launches from the Pyongyang area at around 5:00 p.m. Japan\u2019s Defense Ministry said the missiles traveled approximately 320 km, reached a maximum altitude of about 90 km, and landed outside Japan\u2019s exclusive economic zone. The launch came just hours after U.S. President Donald Trump said he planned to meet North Korean leader Kim Jong-un later this year and amid the ongoing, reduced U.S.\u2013ROK Ulchi Freedom Shield exercise. South Korea\u2019s presidential office condemned the launch and ordered the military to maintain full readiness.",
+        "resources":"https:\/\/www.reuters.com\/world\/china\/north-korea-fires-suspected-ballistic-missile-japanese-authorities-say-2026-08-20\/",
+        "year":"2026",
+        "week_number":"33",
+        "month_year":"08-2026",
+        "weekday":"Thursday",
+        "mentions_kim":true
+    },
+    {
         "date":"2026-08-12",
         "type":"Missile Provocation",
         "event":"Short-range Ballistic Missile Launch",
