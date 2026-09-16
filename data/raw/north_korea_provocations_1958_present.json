@@ -1,5 +1,19 @@
 [
     {
+        "date":"2026-09-12",
+        "type":"Missile Provocation",
+        "event":"Short-range Ballistic Missile Launch",
+        "description":"North Korea fired several short-range ballistic missiles from the Wonsan area toward the East Sea at around 5:20 a.m. on Sept. 12, according to South Korea\u2019s Joint Chiefs of Staff (JCS). The missiles flew about 250 kilometres, and South Korean and U.S. authorities are analysing their specifications. The weapons are believed to include Hwasong-11 series missiles and 600mm super-large multiple rocket launchers, suggesting North Korea may have tested different short-range ballistic missile systems in sequence. The missiles were reportedly fired toward Al Island, a frequent North Korean target site for missile tests. The launch came one day after the five-day South Korea-U.S.-Japan Freedom Edge exercise ended. North Korea has condemned the exercise as a \u201cU.S.-led war rehearsal\u201d and warned on Sept. 7 that it would take \u201cstrong and responsive countermeasures from a position of strength.\u201d",
+        "resources":"https:\/\/news.sbs.co.kr\/english\/article.do?news_id=N1008749755&plink=COPYPASTE&cooper=SBSNEWSEND"
+    },
+    {
+        "date":"2026-09-06",
+        "type":"Other Provocation",
+        "event":"Guided-Missile Destroyer Launch",
+        "description":"North Korean leader Kim Jong-un stated that the newly commissioned 5,000-ton destroyer Kang Kon will be integrated into North Korea's nuclear response system and be capable of delivering \"annihilating retaliatory strikes.\" Speaking at the ship's commissioning ceremony in Wonsan on Sept. 14, Kim said the vessel's deployment to waters east of the Korean Peninsula demonstrates North Korea's determination to assert its maritime sovereignty. State media did not specify whether the destroyer will carry nuclear weapons but reported that it is equipped with the same weapons systems as the Choe Hyon, the first destroyer of its class commissioned approximately three months earlier. Previous North Korean reports indicated that Choe Hyon-class destroyers can carry multiple missile systems, including missiles assessed by analysts as potentially nuclear-capable. Kim's daughter, Ju Ae, played a prominent role during the ceremony, appearing alongside her father, receiving military salutes, and boarding the destroyer.",
+        "resources":"https:\/\/www.reuters.com\/world\/asia-pacific\/north-koreas-kim-jong-un-says-new-destroyer-will-be-part-nuclear-response-system-2026-09-06\/"
+    },
+    {
         "date":"2026-08-20",
         "type":"Missile Provocation",
         "event":"Short-range Ballistic Missile Launch",
