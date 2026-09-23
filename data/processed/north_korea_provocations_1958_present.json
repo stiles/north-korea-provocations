@@ -1,5 +1,29 @@
 [
     {
+        "date":"2026-09-21",
+        "type":"Other Provocation",
+        "event":"Land Mine Explosion",
+        "description":"Three South Korean soldiers were seriously injured in a suspected landmine explosion while conducting an operation in the Demilitarized Zone, according to military officials. The blast occurred at a frontline unit along the western border, and authorities are investigating the exact cause of the incident. The accident comes amid increased military activity in the border area, where North Korean troops have been installing fences, laying mines, clearing vegetation, and constructing barriers north of the Military Demarcation Line since 2024. South Korea's Joint Chiefs of Staff have previously reported multiple mine-related explosions during these activities, resulting in numerous North Korean casualties. The incident also follows a series of border incursions by North Korean soldiers, who have crossed the MDL more than 20 times in recent weeks.",
+        "resources":"https:\/\/www.koreajoongangdaily.com\/korea\/three-south-korean-soldiers-seriously-injured-in-dmz-explosion\/12885370",
+        "year":"2026",
+        "week_number":"38",
+        "month_year":"09-2026",
+        "weekday":"Monday",
+        "mentions_kim":false
+    },
+    {
+        "date":"2026-09-20",
+        "type":"Missile Provocation",
+        "event":"Short-range Ballistic Missile Launch",
+        "description":"North Korea announced the successful test of a new weapon system overseen by Kim Jong-un, describing it as a demonstration of \"ultra-modern defence technology\" and a major step forward in military readiness. Although state media did not identify the weapon, images released after the launch indicated it was likely an upgraded Hwasongpho-11 short-range ballistic missile equipped with a hypersonic glide vehicle (HGV). An HGV allows a missile's warhead to manoeuvre at high speeds during flight, making it more difficult for missile defense systems to track and intercept. This capability enhances North Korea's ability to penetrate regional missile defenses and strengthens its efforts to modernize its nuclear delivery systems.",
+        "resources":"https:\/\/www.reuters.com\/world\/asia-pacific\/north-korea-says-it-tests-new-combat-weapon-system-kcna-reports-2026-09-21\/",
+        "year":"2026",
+        "week_number":"38",
+        "month_year":"09-2026",
+        "weekday":"Sunday",
+        "mentions_kim":true
+    },
+    {
         "date":"2026-09-12",
         "type":"Missile Provocation",
         "event":"Short-range Ballistic Missile Launch",
