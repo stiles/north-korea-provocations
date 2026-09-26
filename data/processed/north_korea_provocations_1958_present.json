@@ -1,5 +1,29 @@
 [
     {
+        "date":"2026-09-25",
+        "type":"Other Provocation",
+        "event":"Cyberattack",
+        "description":"North Korean cybercriminals are likely behind this year\u2019s largest virtual heist so far, which resulted in the theft of $351.6 million from Seychelles-based cryptocurrency exchange Bitget, according to the company\u2019s CEO. In a statement published at 21:30 UTC, Bitget CEO Gracy Chen said the exchange\u2019s security systems detected unauthorized transfers from several hot wallets at 18:31 UTC on September 24, 2026. The company\u2019s security team immediately activated emergency response measures after identifying the suspicious activity. Chen said preliminary findings point to North Korean cybercriminals as the likely perpetrators of the attack. Investigators reportedly identified IP addresses that they believe are linked to VPN services associated with a DPRK-linked hacking group.",
+        "resources":"https:\/\/www.nknews.org\/pro\/north-korean-cybercriminals-linked-to-352m-heist-from-crypto-exchange-bitget\/",
+        "year":"2026",
+        "week_number":"38",
+        "month_year":"09-2026",
+        "weekday":"Friday",
+        "mentions_kim":false
+    },
+    {
+        "date":"2026-09-22",
+        "type":"Missile Provocation",
+        "event":"Multiple Launch Rocket System (MLRS) Test",
+        "description":"North Korea conducted a test firing of an upgraded 240mm guided rocket projectile on September 22, which the Korean Central News Agency reported is equipped with a guidance system and has a maximum range of 115 km. The older model has a range of over 60 km, but the upgraded version appears to have added guidance capabilities to enhance accuracy and significantly extend its range. North Korea previously conducted a test firing of a 240mm guided rocket projectile with an extended range under the observation of Kim Jong-un in May and is focusing on modernizing frontline firepower systems in accordance with Kim\u2019s directive to \u201cfortify the southern border.\u201d The Joint Chiefs of Staff stated, \u201cWe detected several rounds of artillery fired from the South Pyongan Province area toward the West Sea on September 22, and detailed specifications are under precise analysis.\u201d",
+        "resources":"https:\/\/www.chosun.com\/english\/national-en\/2026\/09\/24\/RJQMLNFDGVHBRHXSLJLSDV67JQ\/",
+        "year":"2026",
+        "week_number":"38",
+        "month_year":"09-2026",
+        "weekday":"Tuesday",
+        "mentions_kim":true
+    },
+    {
         "date":"2026-09-21",
         "type":"Other Provocation",
         "event":"Land Mine Explosion",
