@@ -1,5 +1,19 @@
 [
     {
+        "date":"2026-09-30",
+        "type":"Other Provocation",
+        "event":"DMZ Enroachment",
+        "description":"The United Nations Command (UNC) said an Armistice Agreement violation had occurred after investigators found an active North Korean antipersonnel mine on the South Korean side of the Military Demarcation Line (MDL) during an investigation into two Sept. 21 explosions in the Demilitarized Zone that injured three South Korean soldiers. South Korea's Joint Chiefs of Staff had previously assessed that North Korean land mines likely caused the explosions, and another North Korean antipersonnel mine was later found near the site. Following the UNC announcement, South Korean officials, including Lt. Gen. Kang Hyun-woo and Defense Minister Kang Shin-chul, explicitly blamed North Korea, calling the incident a clear Armistice Agreement violation, urging Pyongyang to halt activities that heighten tensions, and warning it would bear responsibility for future consequences.",
+        "resources":"https:\/\/www.koreaherald.com\/article\/10888985"
+    },
+    {
+        "date":"2026-09-28",
+        "type":"Other Provocation",
+        "event":"Drones (UAVs)",
+        "description":"North Korea has started practicing drone-based swarm attacks, adopting tactics used in Ukraine and the Middle East that combine unmanned systems with conventional weapons to overwhelm enemy air defenses. In its first known exercise of this kind, North Korea integrated attack drones, nuclear-capable missiles, rockets, and long-range artillery to pulverize a target. North Korea's growing drone capabilities are being supported by closer military cooperation with Russia. Pyongyang has reportedly sent laborers and engineers to Russian drone facilities, while Kim Jong Un has pledged to develop AI-enabled unmanned attack systems as part of the country's military modernization program. Analysts assess that in a future conflict on the Korean Peninsula, North Korea could employ drone swarms alongside missile salvos to strain South Korean and allied air defenses, increasing the effectiveness of follow-on strikes by more powerful weapons.",
+        "resources":"https:\/\/www.wsj.com\/world\/north-korea-is-testing-swarm-attacks-mixing-drones-and-missiles-6f8a0a38?mod=Searchresults&pos=1&page=1"
+    },
+    {
         "date":"2026-09-25",
         "type":"Other Provocation",
         "event":"Cyberattack",
