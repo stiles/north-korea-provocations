@@ -1,5 +1,17 @@
 [
     {
+        "date":"2026-10-03",
+        "type":"Missile Provocation",
+        "event":"Short-range Ballistic Missile Launch",
+        "description":"North Korea fired at least one ballistic missile toward the sea between Korea and Japan from the Wonsan area at about 6:30 am.",
+        "resources":"https:\/\/en.yna.co.kr\/view\/AEN20261003000500315?section=national\/defense",
+        "year":"2026",
+        "week_number":"39",
+        "month_year":"10-2026",
+        "weekday":"Saturday",
+        "mentions_kim":false
+    },
+    {
         "date":"2026-09-30",
         "type":"Other Provocation",
         "event":"DMZ Enroachment",
@@ -216,6 +228,18 @@
         "mentions_kim":false
     },
     {
+        "date":"2026-04-08",
+        "type":"Missile Provocation",
+        "event":"Short-range Ballistic Missile Launch",
+        "description":"North Korea fired a ballistic missile toward the sea between Korea and Japan at about 2:25 p.m., hours after its morning launch of multiple short-range ballistic missiles from the Wonsan area. Japan's Ministry of Defense said the missile flew more than 700 km.",
+        "resources":"https:\/\/www.mod.go.jp\/j\/press\/news\/2026\/04\/08b.html",
+        "year":"2026",
+        "week_number":"14",
+        "month_year":"04-2026",
+        "weekday":"Wednesday",
+        "mentions_kim":false
+    },
+    {
         "date":"2026-04-07",
         "type":"Missile Provocation",
         "event":"Ballistic Missile Launch",
@@ -252,7 +276,7 @@
         "mentions_kim":false
     },
     {
-        "date":"2026-03-11",
+        "date":"2026-03-10",
         "type":"Missile Provocation",
         "event":"Strategic cruise missile",
         "description":"North Korea's state media KCNA reported that Kim Jong-un oversaw a strategic cruise missile test launch from Pyongyang's destroyer Choe Hyon, just days after a similar test. According to KCNA, the missiles flew over the Yellow Sea for between 10,116 and 10,138 seconds before striking their designated targets. Photos from the inspection also showed Kim Jong-un's daughter, Kim Ju-ae, accompanying her father during the exercise. The consecutive launches come amid the annual U.S.-South Korea joint military drills and the ongoing crisis in Iran.",
@@ -260,7 +284,7 @@
         "year":"2026",
         "week_number":"10",
         "month_year":"03-2026",
-        "weekday":"Wednesday",
+        "weekday":"Tuesday",
         "mentions_kim":true
     },
     {
@@ -272,18 +296,6 @@
         "year":"2026",
         "week_number":"9",
         "month_year":"03-2026",
-        "weekday":"Wednesday",
-        "mentions_kim":true
-    },
-    {
-        "date":"2026-01-28",
-        "type":"Missile Provocation",
-        "event":"Multiple Launch Rocket System (MLRS) Test",
-        "description":"North Korea's Kim Jong-un oversaw a test launch of an \"upgraded\" 600mm multiple-launch rocket system (MLRS). According to North Korea\u2019s state media, the test involved four rocket launches, which struck a target 358.5 kilometers (223 miles) from the launch site. The state media also reported that the system features an \"autonomous precision-guided flight system capable of disregarding any external interference.\" Kim Jong-un stated the 600mm MLRS has been \"adapted for special offensive use\" to enhance its \"strategic deterrence,\" likely referring to past claims that it can carry a nuclear warhead.",
-        "resources":"https:\/\/www.nknews.org\/2026\/01\/kim-jong-un-says-he-hopes-enemies-feel-threatened-by-latest-rocket-test\/",
-        "year":"2026",
-        "week_number":"4",
-        "month_year":"01-2026",
         "weekday":"Wednesday",
         "mentions_kim":true
     },
@@ -372,7 +384,7 @@
         "mentions_kim":false
     },
     {
-        "date":"2025-11-06",
+        "date":"2025-11-07",
         "type":"Missile Provocation",
         "event":"Short-range Ballistic Missile Launch",
         "description":"South Korea\u2019s Joint Chiefs of Staff (JCS) reported that North Korea fired a short-range ballistic missile toward its eastern waters. After being launched from an inland area near the western county of Taekwan, the missile flew approximately 700 kilometers (434 miles) before landing in the sea between Korea and Japan. The missile launch came after the United States announced additional sanctions against entities involved in money laundering to fund North Korea's nuclear program.",
@@ -380,7 +392,7 @@
         "year":"2025",
         "week_number":"44",
         "month_year":"11-2025",
-        "weekday":"Thursday",
+        "weekday":"Friday",
         "mentions_kim":false
     },
     {
@@ -408,7 +420,7 @@
         "mentions_kim":false
     },
     {
-        "date":"2025-10-29",
+        "date":"2025-10-28",
         "type":"Missile Provocation",
         "event":"Strategic cruise missile",
         "description":"North Korea test-fired sea-to-surface strategic cruise missiles that flew for more than two hours before striking their target in its western waters. The missiles were reportedly designed to carry nuclear warheads. The test occurred one day before U.S. President Trump\u2019s visit to South Korea, amid speculation about a possible meeting with Kim Jong-un.",
@@ -416,7 +428,7 @@
         "year":"2025",
         "week_number":"43",
         "month_year":"10-2025",
-        "weekday":"Wednesday",
+        "weekday":"Tuesday",
         "mentions_kim":true
     },
     {
@@ -504,7 +516,7 @@
         "mentions_kim":false
     },
     {
-        "date":"2025-04-30",
+        "date":"2025-04-28",
         "type":"Missile Provocation",
         "event":"Strategic cruise missile",
         "description":"North Korea fired supersonic cruise missiles, strategic cruise missiles, anti-aircraft missiles, and 127mm ship-mounted automatic guns on April 28, testing key weapons systems for its new 5000-ton destroyer. The next day, it conducted additional tests involving ship-to-ship tactical guided weapons, automatic guns, and smoke and electronic jamming systems.",
@@ -512,7 +524,7 @@
         "year":"2025",
         "week_number":"17",
         "month_year":"04-2025",
-        "weekday":"Wednesday",
+        "weekday":"Monday",
         "mentions_kim":false
     },
     {
@@ -612,7 +624,7 @@
         "mentions_kim":false
     },
     {
-        "date":"2024-11-04",
+        "date":"2024-11-05",
         "type":"Missile Provocation",
         "event":"Short-range Ballistic Missile Launch",
         "description":"North Korea fired at least 7 short-range ballistic missiles into the sea between Korea and Japan on Tuesday morning, according to Japan's defense ministry. The launch occured a day before the US presidential election and just hours after high-level talks in Moscow between the DPRK foreign minister and Russian leader Vladimir Putin.",
@@ -620,7 +632,7 @@
         "year":"2024",
         "week_number":"44",
         "month_year":"11-2024",
-        "weekday":"Monday",
+        "weekday":"Tuesday",
         "mentions_kim":false
     },
     {
@@ -912,7 +924,7 @@
         "mentions_kim":false
     },
     {
-        "date":"2024-08-28",
+        "date":"2024-08-27",
         "type":"Missile Provocation",
         "event":"Multiple Lanuch Rocket System (MLRS) Test",
         "description":"North Korea conducted a test of an \"updated\" 240mm multiple-launch rocket system (MLRS) on Tuesday, with North Korean leader Kim Jong Un overseeing the test. The launch marks the fourth such test since February this year and coincides with the Ulchi Freedom Shield military drills in South Korea that started on Monday. The rocket system has been \"technically updated in its maneuverability and concentrated firing capability\" and has \"proved to be advantageous in all indiced,\" the KCNA reported.",
@@ -920,7 +932,7 @@
         "year":"2024",
         "week_number":"34",
         "month_year":"08-2024",
-        "weekday":"Wednesday",
+        "weekday":"Tuesday",
         "mentions_kim":true
     },
     {
@@ -1152,18 +1164,6 @@
         "mentions_kim":false
     },
     {
-        "date":"2024-05-31",
-        "type":"Missile Provocation",
-        "event":"Multiple Lanuch Rocket System (MLRS) Test",
-        "description":"North Korea conducted a major missile salvo launch of 18 rockets at the same time on Thursday as a warning to South Korea, according to state media, emphasizing this demonstrates a resolve to carry out preemptive strikes. Leader Kim Jong Un guided the test, the Rodong Sinmun reported on Friday, with photos showing it involved the 600mm multiple launch rocket system (MLRS) \u2014 a system Pyongyang says can be fitted with nuclear warheads.",
-        "resources":"https:\/\/www.nknews.org\/2024\/05\/north-korea-claims-to-have-launched-18-missiles-at-once-in-major-test\/",
-        "year":"2024",
-        "week_number":"21",
-        "month_year":"05-2024",
-        "weekday":"Friday",
-        "mentions_kim":true
-    },
-    {
         "date":"2024-05-30",
         "type":"Other Provocation",
         "event":"GPS Signal Jamming",
@@ -1285,8 +1285,8 @@
     },
     {
         "date":"2024-03-18",
-        "type":"Other Provocation",
-        "event":"Artillery Fire",
+        "type":"Missile Provocation",
+        "event":"Short-range Ballistic Missile Launch",
         "description":"Rodong Shinmun reported that North Korea tested six 600mm MLRS rockets on March 18 under Kim Jong-un's supervision to test its real war capabilities of the weapon system. ROK JCS and Japanese MOD initially reported that North Korea fired multiple short-range ballistic missiles toward the East Sea between 7:44 a.m. and 8:22 a.m., which flew for over 300km, yet clarified that they detected unusual signs different from typical missile launches after joint analysis with the United States",
         "resources":"https:\/\/kcnawatch.org\/newstream\/1710889846-526123314\/respected-comrade-kim-jong-un-guides-ground-jet-test-of-solid-fuel-engine-for-new-type-intermediate-range-hypersonic-missile\/",
         "year":"2024",
@@ -1524,7 +1524,7 @@
         "mentions_kim":false
     },
     {
-        "date":"2023-09-01",
+        "date":"2023-09-02",
         "type":"Missile Provocation",
         "event":"Long-range Cruise Missile Launch",
         "description":"ROK JCS reported North Korea fired \"multiple\" cruise missiles toward the west coast starting at around 04:00 a.m.  Rodong Sinmun reported that North Korea fired two long-range strategic cruise missiles on Saturday (September 2) morning as part of a \"tactical nuclear attack virtual launch exercise.\" The launch reportedly simulated a target distance of roughly 1,500 km over a timespan of over two hours.",
@@ -1532,7 +1532,7 @@
         "year":"2023",
         "week_number":"35",
         "month_year":"09-2023",
-        "weekday":"Friday",
+        "weekday":"Saturday",
         "mentions_kim":false
     },
     {
@@ -1548,7 +1548,7 @@
         "mentions_kim":false
     },
     {
-        "date":"2023-08-23",
+        "date":"2023-08-24",
         "type":"Missile Provocation",
         "event":"Satellite Launch",
         "description":"ROK JCS reported North Korea launched at around 03:50 a.m. from Sohae and it flew south over the Yellow Sea, including 33km (20.5 miles) west of the Baengneyong Island. They added that the launch deemed a \"failure.\"",
@@ -1556,7 +1556,7 @@
         "year":"2023",
         "week_number":"34",
         "month_year":"08-2023",
-        "weekday":"Wednesday",
+        "weekday":"Thursday",
         "mentions_kim":false
     },
     {
@@ -1584,7 +1584,7 @@
         "mentions_kim":false
     },
     {
-        "date":"2023-07-18",
+        "date":"2023-07-19",
         "type":"Missile Provocation",
         "event":"Short-range Ballistic Missile Launch",
         "description":"According to South Korea's Joint Chiefs of Staff, North Korea fired two SRBMs on Wednesday from 03:30 to 03:46 a.m. They each flew around 550 km (342 miles) into the East Sea.",
@@ -1592,7 +1592,7 @@
         "year":"2023",
         "week_number":"29",
         "month_year":"07-2023",
-        "weekday":"Tuesday",
+        "weekday":"Wednesday",
         "mentions_kim":false
     },
     {
@@ -1620,7 +1620,7 @@
         "mentions_kim":false
     },
     {
-        "date":"2023-05-30",
+        "date":"2023-05-31",
         "type":"Missile Provocation",
         "event":"Satellite Launch",
         "description":"North Korea fired \"Chollima-1\", rocket carrying a military reconnaissance satellite, \"Malligyong-1\", southward Wednesday, but it fell into the Yellow Sea after a malfunction. Observers indicate that the North intend to secure intelligence, surveillance and reconnaissance (ISR) assets. The National Aerospace Development Administration (NADA) \"attributed the failure to the low reliability and stability of the new-type engine system\" and the \"unstable character of the fuel used.\" The NADA added that they will conduct the second launch as soon as possible.",
@@ -1628,7 +1628,7 @@
         "year":"2023",
         "week_number":"22",
         "month_year":"05-2023",
-        "weekday":"Tuesday",
+        "weekday":"Wednesday",
         "mentions_kim":false
     },
     {
@@ -1789,8 +1789,8 @@
     },
     {
         "date":"2023-01-01",
-        "type":"Other Provocation",
-        "event":"Multiple Lanuch Rocket System (MLRS) Test",
+        "type":"Missile Provocation",
+        "event":"Short-range Ballistic Missile Launch",
         "description":"North Korea tested a nuclear-capable \u201csuper-large multiple launch rocket system (MLRS)\u201d early in the morning on New Year\u2019s Day, according to state media, a day after leader Kim Jong Un joined a ceremony to hand over the \u201coffensive\u201d weapons to the military. In a speech, Kim said the 30 new units of 600mm super-large MLRS can strike anywhere in South Korea and carry tactical nuclear warheads, the party daily Rodong Sinmun reported Sunday.",
         "resources":"https:\/\/www.nknews.org\/2023\/01\/north-korea-rings-in-the-new-year-with-early-morning-missile-launch-tokyo\/",
         "year":"2023",
@@ -1949,6 +1949,18 @@
         "event":"Intercontinental ballistic missile & SRBM",
         "description":"North Korea fired a Hwasong-17, an intercontinental ballistic missile from the Sunan area in Pyongyang at around 7:40am. The missile flew about 472 miles (760km) at an apogee of around 1193 miles and a top speed of Mach 15. The ICBM seems to have failed in normal flight following the second stage separation. North Korea also fired 2 SRBMs from Kaechon in South Pyongan province at around 8:39am. The SRBMs flew about 205 miles at an apogee of around 43 miles (69km) and a top speed of Mach 5.",
         "resources":"https:\/\/en.yna.co.kr\/view\/AEN20221005004357325",
+        "year":"2022",
+        "week_number":"44",
+        "month_year":"11-2022",
+        "weekday":"Thursday",
+        "mentions_kim":false
+    },
+    {
+        "date":"2022-11-03",
+        "type":"Missile Provocation",
+        "event":"Short-range Ballistic Missile Launch",
+        "description":"In the evening, North Korea fired three short-range ballistic missiles toward the sea between Korea and Japan, its second launch of the day after the morning ICBM and short-range missile launches.",
+        "resources":"https:\/\/web.archive.org\/web\/20260902203331\/https:\/\/www.nti.org\/wp-content\/uploads\/2021\/10\/north_korea_missile_test_database.xlsx",
         "year":"2022",
         "week_number":"44",
         "month_year":"11-2022",
@@ -2544,6 +2556,18 @@
         "mentions_kim":false
     },
     {
+        "date":"2020-03-29",
+        "type":"Missile Provocation",
+        "event":"Short-range Ballistic Missile Launch",
+        "description":"North Korea fired two short-range ballistic missiles from the Wonsan area toward the sea between Korea and Japan, according to South Korea's Joint Chiefs of Staff. State media described the weapon as a super-large multiple rocket launcher.",
+        "resources":"https:\/\/en.yna.co.kr\/view\/AEN20200329000354325",
+        "year":"2020",
+        "week_number":"13",
+        "month_year":"03-2020",
+        "weekday":"Sunday",
+        "mentions_kim":false
+    },
+    {
         "date":"2020-03-21",
         "type":"Missile Provocation",
         "event":"Short-range Missile Launch",
@@ -2556,15 +2580,15 @@
         "mentions_kim":false
     },
     {
-        "date":"2020-03-06",
+        "date":"2020-03-09",
         "type":"Missile Provocation",
         "event":"Short-range Missile Launch",
         "description":"On March 9, 2020 at 7:36 a.m., North Korea launched three short-range projectiles from the Sondok, South Hamgyong Province area towards the sea between Korea and Japan. The projectiles traveled a distance of 200 kilometers (124 miles) at a maximum altitude of 50 kilometers (31 miles), and closely resemble the KN-25 multiple rocket launch system.",
         "resources":"https:\/\/en.yna.co.kr\/view\/AEN20200309000455325",
         "year":"2020",
-        "week_number":"9",
+        "week_number":"10",
         "month_year":"03-2020",
-        "weekday":"Friday",
+        "weekday":"Monday",
         "mentions_kim":false
     },
     {
@@ -2688,7 +2712,7 @@
         "mentions_kim":false
     },
     {
-        "date":"2019-08-05",
+        "date":"2019-08-06",
         "type":"Missile Provocation",
         "event":"Short-range Ballistic Missile Launch",
         "description":"North Korea fired two short-range ballistic missiles at 5:24 a.m. and 5:36 a.m. local time. The SRBMs reportedly travelled approximately 280 miles and reached a maximum height of 23 miles.",
@@ -2696,7 +2720,7 @@
         "year":"2019",
         "week_number":"31",
         "month_year":"08-2019",
-        "weekday":"Monday",
+        "weekday":"Tuesday",
         "mentions_kim":false
     },
     {
@@ -2745,6 +2769,18 @@
         "week_number":"18",
         "month_year":"05-2019",
         "weekday":"Thursday",
+        "mentions_kim":false
+    },
+    {
+        "date":"2017-11-29",
+        "type":"Missile Provocation",
+        "event":"Intercontinental Ballistic Missile",
+        "description":"North Korea launched a new ballistic missile (Hwasong-15) from Pyongsong, South Pyongan province into the sea between Korea and Japan. The missile flew for about 50 minutes and travelled approximately 940 km on a lofted trajectory. Experts assess that the missile could travel a distance of 13,000 km if fired at a standard trajectory.",
+        "resources":"http:\/\/www.cnn.com\/2017\/11\/28\/politics\/north-korea-missile-launch\/index.html",
+        "year":"2017",
+        "week_number":"48",
+        "month_year":"11-2017",
+        "weekday":"Wednesday",
         "mentions_kim":false
     },
     {
@@ -4092,7 +4128,7 @@
         "mentions_kim":false
     },
     {
-        "date":"2006-07-04",
+        "date":"2006-07-05",
         "type":"Missile Provocation",
         "event":"Inter-Continental Ballistic Missile\/Short-Range Missile Launches",
         "description":"North Korea conducted three launches with a total of 7 missiles, including a failed-test of the Taepodong-2 ICBM, Nodong MRBMs, and Scud SRBMs. The Taepodong-2 was launched from the Tonghae test facility, and the latter from Gitdaeryeong Missile Test Site.",
@@ -4100,7 +4136,7 @@
         "year":"2006",
         "week_number":"27",
         "month_year":"07-2006",
-        "weekday":"Tuesday",
+        "weekday":"Wednesday",
         "mentions_kim":false
     },
     {
