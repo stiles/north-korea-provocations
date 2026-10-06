@@ -2,14 +2,14 @@
     {
         "date":"2026-10-03",
         "type":"Missile Provocation",
-        "event":"Short-range Ballistic Missile Launch",
-        "description":"North Korea fired at least one ballistic missile toward the sea between Korea and Japan from the Wonsan area at about 6:30 am.",
-        "resources":"https:\/\/en.yna.co.kr\/view\/AEN20261003000500315?section=national\/defense",
+        "event":"Intermediate-range Ballistic Missile Launch",
+        "description":"North Korea launched an intermediate-range strategic missile from the Wonsan area on its east coast toward the East Sea. According to the Korean Central News Agency (KCNA), the drill was intended to assess the reliability and effectiveness of the country's \"hypersonic strategic weapon system\" and deterrence capabilities. KCNA reported that the missile struck a target approximately 1,000 kilometers away. Kim Jong-un said the exercise demonstrated North Korea's counterattack capabilities and reaffirmed efforts to strengthen the country's \"nuclear war deterrent.\" He also claimed South Korea and Japan failed to accurately track the missile's trajectory.",
+        "resources":"https:\/\/www.koreajoongangdaily.com\/korea\/kim-jongun-watches-missile-drill-with-daughter-vows-to-rapidly-advance-nuclear-war-deterrentnbsp\/12903879",
         "year":"2026",
         "week_number":"39",
         "month_year":"10-2026",
         "weekday":"Saturday",
-        "mentions_kim":false
+        "mentions_kim":true
     },
     {
         "date":"2026-09-30",
