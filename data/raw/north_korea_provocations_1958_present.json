@@ -1,5 +1,12 @@
 [
     {
+        "date":"2026-10-12",
+        "type":"Missile Provocation",
+        "event":"Short-range Ballistic Missile Launch",
+        "description":"North Korea fired multiple ballistic missiles toward the sea between Korea and Japn at about 9:20 am from the Pyongyang area, with the missile flying more than 900 kilometers.",
+        "resources":"https:\/\/en.yna.co.kr\/view\/AEN20261012002700315?section=national\/defense"
+    },
+    {
         "date":"2026-10-03",
         "type":"Missile Provocation",
         "event":"Intermediate-range Ballistic Missile Launch",
