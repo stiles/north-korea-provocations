@@ -1,5 +1,12 @@
 [
     {
+        "date":"2026-10-14",
+        "type":"Missile Provocation",
+        "event":"Submarine Launched Cruise Missile Launch",
+        "description":"North Korea announced that it conducted a test of two types of submarine-launched strategic cruise missiles in the East Sea on Wednesday, stating that the launch was intended to assess the readiness of its underwater combat systems, enhance the Navy\u2019s ability to carry out strategic missions, and demonstrate the reliability of its nuclear deterrent. The test was overseen by senior military and missile officials, including Kim Jong-sik and Missile Administration chief Jang Chang-ha.",
+        "resources":"https:\/\/en.yna.co.kr\/view\/AEN20261015000751315"
+    },
+    {
         "date":"2026-10-12",
         "type":"Missile Provocation",
         "event":"Ballistic Missile Launch",
