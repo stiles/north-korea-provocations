@@ -1,5 +1,12 @@
 [
     {
+        "date":"2026-10-15",
+        "type":"Missile Provocation",
+        "event":"Mixed Tactical Weapons Test",
+        "description":"North Korea conducted an underwater test on Thursday, 15 October 2026, of a new AI-equipped, high-speed precision-guided torpedo, which KCNA described as successful on 17 October 2026. The \u201cZam-2.0\u201d system uses AI for target detection and guidance and incorporates propulsion technology refined through more than 180 tests over five years, including improvements to propulsion efficiency and its rocket propulsion system.",
+        "resources":"https:\/\/www.reuters.com\/world\/asia-pacific\/north-korea-tests-new-ai-equipped-torpedo-kcna-says-2026-10-16\/"
+    },
+    {
         "date":"2026-10-14",
         "type":"Missile Provocation",
         "event":"Submarine Launched Cruise Missile Launch",
