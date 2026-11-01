@@ -1,5 +1,19 @@
 [
     {
+        "date":"2026-10-29",
+        "type":"Missile Provocation",
+        "event":"Short-range Ballistic Missile Launch",
+        "description":"North Korea launched roughly 12 short-range ballistic missiles from Wonsan towards the sea between Korea and Japan at around 12:30 p.m. Thursday. The missiles travelled approximately 250 kilometres (155 miles) and were likely fired from KN-25 launchers, although South Korea is assessing whether other weapons were involved. The launch followed Seoul\u2019s proposal for military talks after a 21 September border landmine explosion and heightened tensions along the DMZ.",
+        "resources":"https:\/\/en.yna.co.kr\/view\/AEN20261019003553315"
+    },
+    {
+        "date":"2026-10-26",
+        "type":"Other Provocation",
+        "event":"Military Posturing",
+        "description":"Three North Korean self-propelled 122mm howitzers were visibly positioned near the inter-Korean border, with their barrels pointing south. Around 20\u201330 North Korean soldiers were conducting fencing work inside the Demilitarized Zone. The incident follows competing claims over a September DMZ landmine explosion in which Pyongyang denied responsibility and accused Seoul of fabricating the incident.",
+        "resources":"https:\/\/news.sky.com\/story\/north-korean-howitzer-guns-spotted-close-to-border-with-south-korea-as-tensions-remain-high-13603924"
+    },
+    {
         "date":"2026-10-21",
         "type":"Other Provocation",
         "event":"Loudspeaker Propaganda Broadcast",
