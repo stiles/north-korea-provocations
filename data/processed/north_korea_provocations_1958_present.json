@@ -1,5 +1,41 @@
 [
     {
+        "date":"2026-11-01",
+        "type":"Missile Provocation",
+        "event":"Ballistic Missile Launch",
+        "description":"North Korea tested a cluster-bomb warhead designed for tactical ballistic missiles near Chongju. KCNA claimed the \u201cStandard Type 2\u201d warhead can affect 12\u201313 hectares and said four variants would be fielded by year-end. South Korea tracked the launch toward the Yellow Sea and assessed that the missile may have been a Hwasong-11 Ra.",
+        "resources":"https:\/\/www.koreatimes.co.kr\/foreignaffairs\/northkorea\/20261101\/n-korea-tests-cluster-bomb-mountable-on-tactical-ballistic-missiles",
+        "year":"2026",
+        "week_number":"44",
+        "month_year":"11-2026",
+        "weekday":"Sunday",
+        "mentions_kim":false
+    },
+    {
+        "date":"2026-11-01",
+        "type":"Other Provocation",
+        "event":"Cyberattack",
+        "description":"The FBI attributed the theft of $6.3 billion in cryptocurrency from Binance to North Korea-linked hacking group TraderTraitor, which was also blamed for last year\u2019s Bybit attack. Investigators said the group was converting stolen assets into ethereum and may use decentralised-finance platforms and instant-swap services to launder them.",
+        "resources":"https:\/\/www.pbs.org\/newshour\/world\/fbi-says-north-korea-was-behind-6-3-billion-binance-heist-the-biggest-crypto-hack-in-history",
+        "year":"2026",
+        "week_number":"44",
+        "month_year":"11-2026",
+        "weekday":"Sunday",
+        "mentions_kim":false
+    },
+    {
+        "date":"2026-10-31",
+        "type":"Other Provocation",
+        "event":"Drones (UAVs)",
+        "description":"North Korea displayed new UAVs at an exhibition attended by Kim Jong-un, including a purported stealth prototype and anti-tank suicide drones. Demonstrations showed suicide drones striking mock South Korean guard posts, U.S. M1 Abrams tanks and South Korean K9 self-propelled howitzers. Kim called for expanded UAV capabilities and AI integration.",
+        "resources":"https:\/\/www.chosun.com\/english\/national-en\/2026\/10\/31\/726KGYYA4FBUTK6LTYZ5C6AQGI\/",
+        "year":"2026",
+        "week_number":"43",
+        "month_year":"10-2026",
+        "weekday":"Saturday",
+        "mentions_kim":true
+    },
+    {
         "date":"2026-10-29",
         "type":"Missile Provocation",
         "event":"Short-range Ballistic Missile Launch",
