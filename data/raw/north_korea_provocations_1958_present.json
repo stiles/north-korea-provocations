@@ -1,5 +1,12 @@
 [
     {
+        "date":"2026-11-02",
+        "type":"Missile Provocation",
+        "event":"Strategic cruise missile",
+        "description":"North Korea conducted a performance assessment of a medium-sized cluster warhead for a strategic cruise missile, alongside a flight-characteristics test of its vertical-strike capability. KCNA claimed the warhead could disperse submunitions densely across five to six hectares. It also said improved terminal-phase manoeuvrability allowed the missile to approach at low altitude before climbing and diving onto targets from above.",
+        "resources":"https:\/\/www.asiae.co.kr\/en\/article\/2026110310142366828"
+    },
+    {
         "date":"2026-11-01",
         "type":"Missile Provocation",
         "event":"Ballistic Missile Launch",
@@ -10,7 +17,7 @@
         "date":"2026-11-01",
         "type":"Other Provocation",
         "event":"Cyberattack",
-        "description":"The FBI attributed the theft of $6.3 billion in cryptocurrency from Binance to North Korea-linked hacking group TraderTraitor, which was also blamed for last year\u2019s Bybit attack. Investigators said the group was converting stolen assets into ethereum and may use decentralised-finance platforms and instant-swap services to launder them.",
+        "description":"The FBI attributed the theft of $6.3 billion in cryptocurrency from Binance to North Korea-linked hacking group TraderTraitor, which was also blamed for last year\u2019s Bybit attack. Investigators said the group was converting stolen assets into Ethereum and may use decentralized-finance platforms and instant-swap services to launder them. Kim Yo-jong called the FBI's crypto theft probe as a \"grave political provocation\" against the North and denied responsibility.",
         "resources":"https:\/\/www.pbs.org\/newshour\/world\/fbi-says-north-korea-was-behind-6-3-billion-binance-heist-the-biggest-crypto-hack-in-history"
     },
     {
