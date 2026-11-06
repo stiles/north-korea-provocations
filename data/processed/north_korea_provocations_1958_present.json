@@ -1,5 +1,29 @@
 [
     {
+        "date":"2026-11-04",
+        "type":"Missile Provocation",
+        "event":"Anti-aircraft Missile Launch",
+        "description":"North Korea test-fired a newly designed surface-to-air missile (SAM) system to verify its technical specifications, reliability, and operational capabilities, according to the Korean Central News Agency. The test assessed the reliability of the missile's new materials and intelligent multiple-guidance system, as well as the system's ability to identify and track targets and process detection information.",
+        "resources":"https:\/\/www.koreaherald.com\/article\/10926818",
+        "year":"2026",
+        "week_number":"44",
+        "month_year":"11-2026",
+        "weekday":"Wednesday",
+        "mentions_kim":false
+    },
+    {
+        "date":"2026-11-04",
+        "type":"Missile Provocation",
+        "event":"Strategic cruise missile",
+        "description":"A firepower subunit of North Korea's long-range strategic cruise missile unit in the eastern region conducted a strike drill against a simulated airport target using a long-range strategic cruise missile, according to KCNA. Images released by North Korea appeared to show the cruise missile carrying a cluster warhead.",
+        "resources":"https:\/\/www.koreaherald.com\/article\/10926818",
+        "year":"2026",
+        "week_number":"44",
+        "month_year":"11-2026",
+        "weekday":"Wednesday",
+        "mentions_kim":false
+    },
+    {
         "date":"2026-11-03",
         "type":"Missile Provocation",
         "event":"Ballistic Missile Launch",
