@@ -1,5 +1,29 @@
 [
     {
+        "date":"2026-11-23",
+        "type":"Other Provocation",
+        "event":"Military Posturing",
+        "description":"A North Korean vessel marked \"coast guard\" was spotted near the Northern Limit Line in the Yellow Sea. South Korean media had not previously captured a North Korean ship bearing that name. The hull was white with blue \"coast guard\" lettering, and a deck gun, believed to be 75 mm, was mounted on the bow. Experts said it resembles a Nongo-class fast attack craft and may be a converted navy ship. South Korea's Joint Chiefs of Staff said they are closely monitoring North Korean activity near the border and are ready to respond to any provocation.",
+        "resources":"https:\/\/www.koreajoongangdaily.com\/korea\/north-korean-coast-guard-ship-spotted-near-yellow-sea-border-for-first-time\/12984682",
+        "year":"2026",
+        "week_number":"47",
+        "month_year":"11-2026",
+        "weekday":"Monday",
+        "mentions_kim":false
+    },
+    {
+        "date":"2026-11-20",
+        "type":"Other Provocation",
+        "event":"Nuclear Facility Expansion",
+        "description":"Satellite imagery showed a new extension attached to the main enrichment hall at North Korea's Yongbyon nuclear complex with the annex's purpose remaining unclear. It could be used to\u00a0house administrative space, control equipment or centrifuge upgrades, or new centrifuges that would yield more than 35 kg of extra highly enriched uranium a year. IAEA Director General Rafael Grossi said the annex has been under construction since mid-September and called both sites, along with enrichment work at a second complex near the capital, \"a cause for serious concern\".",
+        "resources":"https:\/\/www.wsj.com\/world\/asia\/new-satellite-photos-show-expansion-of-north-korean-uranium-enrichment-plant-f23c5512",
+        "year":"2026",
+        "week_number":"46",
+        "month_year":"11-2026",
+        "weekday":"Friday",
+        "mentions_kim":false
+    },
+    {
         "date":"2026-11-10",
         "type":"Other Provocation",
         "event":"Naval Modernization",
